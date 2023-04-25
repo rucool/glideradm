@@ -1,8 +1,7 @@
 # glideradm Data Processing Documentation
 
-Documentation on RU-COOL glider data processing for user glideradm. This repository contains [detailed
-documentation](https://github.com/rucool/glideradm/wiki) on all aspects of RU-COOL glider fleet data set processing
-performed as user glideradm.
+Documentation on RU-COOL glider data processing for user glideradm. This repository contains detailed
+documentation on all aspects of RU-COOL glider fleet data set processing performed as user glideradm.
 
 This repo does not contain code. It's sole purpose is to document glideradm data processing. As such, the repo
 contains a [.gitignore](https://github.com/rucool/glideradm/blob/main/.gitignore) that excludes (does not track) 
