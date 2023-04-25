@@ -14,6 +14,7 @@ the restrictions on filetype tracking.
 ## Contents
 - [Documenation Home](https://github.com/rucool/glideradm/wiki)
 - [RU-COOL Glider Deployments](https://marine.rutgers.edu/cool/data/gliders/deployments/)
+- [RU-COOL Glider Active Deployments Map](https://marine.rutgers.edu/cool/data/gliders/)
 - [RU-COOL Glider Deployment Data Access](http://slocum-data.marine.rutgers.edu/erddap/index.html)
 - [U.S. IOOS Glider DAC](https://gliders.ioos.us/status/datasets/)
 
