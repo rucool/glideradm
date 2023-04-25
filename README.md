@@ -8,7 +8,7 @@ contains a [.gitignore](https://github.com/rucool/glideradm/blob/main/.gitignore
 any source code. The [.gitignore]https://github.com/rucool/glideradm/blob/main/.gitignore() can be modified to relax
 the restrictions on filetype tracking.
 
-Contact [kerfoot@marine.rutgers.edu](mailto:kerfoot@marine.rutgers.edu) with questions.
+Contact [kerfoot@marine.rutgers.edu](mailto:kerfoot@marine.rutgers.edu) with questions & suggestions.
 
 ## Contents
 - [Documenation Home](https://github.com/rucool/glideradm/wiki)
