@@ -1,2 +1,15 @@
-# glideradm
-Documentation on RU-COOL glider data processing for user glideradm
+# glideradm Data Processing Documentation
+Documentation on RU-COOL glider data processing for user glideradm. This repository contains [detailed
+documentation](https://github.com/rucool/glideradm/wiki) on all aspects of RU-COOL glider fleet data set processing
+performed as user glideradm.
+
+This repo does not contain code. It's sole purpose is to document glideradm data processing. As such, the repo
+contains a [.gitignore](https://github.com/rucool/glideradm/blob/main/.gitignore) that excludes (does not track) 
+any source code. The [.gitignore]https://github.com/rucool/glideradm/blob/main/.gitignore() can be modified to relax
+the restrictions on filetype tracking.
+
+## Contents
+- [Documenation Home](https://github.com/rucool/glideradm/wiki)
+- [RU-COOL Glider Deployments](https://marine.rutgers.edu/cool/data/gliders/deployments/)
+- [RU-COOL Glider Deployment Data Access](http://slocum-data.marine.rutgers.edu/erddap/index.html)
+
