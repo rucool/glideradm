@@ -1,0 +1,17 @@
+MAILTO=kerfoot@marine.rutgers.edu,lgarzio@marine.rutgers.edu,nazzaro@marine.rutgers.edu
+# 2022-08-11: kerfoot@marine - mirror Rutgers backup TWRC dockserver contents to local filesystem
+#@hourly /home/glideradm/code/glider-proc/scripts/dockserver-mirrors/sync_twrc_rutgers_gliders_to_rutgers.sh > /home/glideradm/logs/sync_twrc_rutgers_gliders_to_rutgers.sh.log 2>&1;
+# 2022-08-18: kerfoot@marine - mirror UConn backup TWRC dockserver contents to local filesystem
+@hourly /home/glideradm/code/glider-proc/scripts/dockserver-mirrors/sync_twrc_uconn_gliders_to_rutgers.sh > /home/glideradm/logs/sync_twrc_uconn_gliders_to_rutgers.sh.log 2>&1;
+# 2023-03-28: kerfoot@marine - run every 3 minutes
+*/3 * * * * /home/glideradm/code/sfmc/update_sfmc.sh > /home/glideradm/logs/update_sfmc.sh.log 2>&1;
+# 2023-03-30: kerfoot@marine - initialize new deployments for https://marine.rutgers.edu/cool/data/gliders/deployments/
+0,10,20,30,40,50 * * * * /home/glideradm/code/slocum/init_deployments.sh > /home/glideradm/logs/init_deployments.sh.log 2>&1;
+# 2023-03-30: kerfoot@marine - manage surface dialogs and s/tbds from the /home/coolgroup/gliderData/dockserver-mirror/gliders
+5,20,35,50 * * * * /home/glideradm/code/slocum/cron-manage_deployments.sh;
+# 2023-03-31: kerfoot@marine - convert and merge newly transferred s/tbd binaries for processing to NetCDF
+15,45 * * * * /home/glideradm/code/slocum/cron-convert_missing_deployment_binaries.sh;
+# 2023-04-25: kerfoot@marine - create synoptic time series ERDDAP plots of active deployment data sets
+0,30 * * * * /home/glideradm/code/imagery/rucool/create_deployment_timeseries.sh > /home/glideradm/logs/create_deployment_timeseries.sh.log 2>&1;
+# 2023-04-25: kerfoot@marine - create latest (-t 48 = last 48 hours) time series ERDDAP plots of active deployment data sets
+0,30 * * * * /home/glideradm/code/imagery/rucool/create_deployment_timeseries.sh -t 48 > /home/glideradm/logs/create_deployment_timeseries-latest.sh.log 2>&1;
