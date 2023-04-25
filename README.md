@@ -1,4 +1,5 @@
 # glideradm Data Processing Documentation
+
 Documentation on RU-COOL glider data processing for user glideradm. This repository contains [detailed
 documentation](https://github.com/rucool/glideradm/wiki) on all aspects of RU-COOL glider fleet data set processing
 performed as user glideradm.
