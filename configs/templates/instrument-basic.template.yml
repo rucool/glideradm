@@ -1,0 +1,20 @@
+- attrs: 
+    calibration_date: ''
+    comment: '' 
+    description: ''
+    factory_calibrated: ''
+    long_name: ''
+    make_model: ''
+    maker: ''
+    maker_vocabulary: ''
+    model: ''
+    model_vocabulary: ''
+    owner: ''
+    references: ''
+    serial_number: ''
+    type: ''
+    type_vocabulary: ''
+    user_calibrated: ''
+  nc_var_name: instrument_TYPE
+  type: i4
+

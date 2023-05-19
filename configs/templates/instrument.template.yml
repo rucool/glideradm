@@ -1,0 +1,48 @@
+# Multiple attribute values comma separated
+- attrs: 
+    # REQUIRED: unquoted YYYY-mm-dd so that the date is parsed to a datetime
+    # EXAMPLE: 2023-01-01
+    calibration_date: ''
+    # Unquoted if there  is text. Description of user_calibrated procedure if :user_calibrated date exists
+    # EXAMPLE: 2 point calibration prior to deployment
+    comment: '' 
+    # REQUIRED: Unquoted meaningful description of the instrument, model, maker, operating depth, measured paramters, etc.
+    description: ''
+    # REQUIRED: unquoted YYYY-mm-dd so that the date is parsed to a datetime
+    # EXAMPLE: 2023-01-01
+    factory_calibrated: ''
+    # REQUIRED: unquoted, NVS concept "altLabel[0]" a concepth exists. Otherwise descriptive long name
+    # EXAMPLE: Sea-Bird Slocum Glider GPCTD
+    long_name: ''
+    # REQUIRED if used for QC: unquoted
+    make_model: ''
+    # REQUIRED: unquoted. Use NVS concepts if available, otherwise specify company
+    # EXAMPLE: Sea-Bird Scientific,Satlantic
+    maker: ''
+    # REQUIRED if an NVS concept is available: url
+    maker_vocabulary: ''
+    # REQUIRED: use NVS "prefLabel[@value]" if available, other wise a very descriptive make/model
+    # EXAMPLE: Sea-Bird Slocum Glider Payload {GPCTD} CTD
+    model: ''
+    # REQUIRED if an NVS concept is available: url
+    model_vocabulary: ''
+    # REQUIRED: unquoted
+    # EXAMPLE: Rutgers University
+    owner: ''
+    # Miscellaneous urls pointing to references for the instrument
+    references: ''
+    # REQUIRED: quoted
+    # EXAMPLE: '9999'
+    serial_number: ''
+    # REQUIRED if an NVS concept is available: url:"related"[url][prefLabel[@value] for each related term. Otherwise, general categories
+    # EXAMPLE: sensor_model,ctd,temperature sensor, conductivity sensor
+    type: ''
+    # REQUIRED if an NVS concept is available: url
+    type_vocabulary: ''
+    # Quoted empty string if no user calibration date. Otherwise unquoted YYYY-mm-dd. If specified, add description of cal procedure in :comment attribute
+    user_calibrated: ''
+  # REQUIRED: TYPE=ctd,ph,optode,etc.    
+  nc_var_name: instrument_TYPE
+  # Always i4 numpy datatype
+  type: i4
+
