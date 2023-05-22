@@ -5,15 +5,15 @@
     factory_calibrated: 1970-01-01
     long_name: Vemco Mobile Transceiver (VMT)
     make_model: ''
-    maker: Innovasea,VEMCO
-    maker_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/ORG00348/,http://vocab.nerc.ac.uk/collection/L35/current/MAN0207/
+    maker: Innovasea Systems Inc.,VEMCO
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/L35/current/MAN0207/,http://vocab.nerc.ac.uk/collection/B75/current/ORG00348/
     model: VMT
     model_vocabulary: ''
-    owner: Rutgers University
+    owner: ''
     references: https://www.innovasea.com/wp-content/uploads/2021/06/Innovasea-Fish-Tracking-vmt-data-sheet-0621.pdf
     serial_number: ''
-    type: sensor_model,vmt,fish tag transmitter,fish tag receiver
-    type_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/,http://vocab.nerc.ac.uk/collection/L35/current/
+    type: tracking tags
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/TRTG/
     user_calibrated: ''
   nc_var_name: instrument_vmt
   type: i4

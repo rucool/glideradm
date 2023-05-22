@@ -8,7 +8,8 @@
     maker_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/ORG00228/,http://vocab.nerc.ac.uk/collection/L35/current/MAN0007/
     model: Aanderaa Oxygen Optode 4831
     model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL1239/ 
-    owner: 'Rutgers University'
+    owner: ''
+    references: ''
     serial_number: ''
     type: sensor_model,dissolved gas sensors
     type_vocabulary: http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,http://vocab.nerc.ac.uk/collection/L05/current/351/

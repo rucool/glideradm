@@ -5,15 +5,15 @@
     factory_calibrated: 1970-01-01
     long_name: Rx-LIVE Cabled Receiver
     make_model: ''
-    maker: Innovasea
+    maker: Innovasea Systems Inc.
     maker_vocabulary: http://vocab.nerc.ac.uk/collection/L35/current/MAN0207/
     model: Rx-LIVE
     model_vocabulary: ''
-    owner: Rutgers University
+    owner: ''
     references: https://www.innovasea.com/wp-content/uploads/2021/10/Innovasea-rx-live_receiver_data-sheet1021.pdf 
     serial_number: ''
-    type: sensor_model,rx-live,fish tag receiver
-    type_vocabulary: http://vocab.nerc.ac.uk/collection/L35/current/
+    type: http://vocab.nerc.ac.uk/collection/L05/current/TRTG/
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/TRTG/
     user_calibrated: ''
   nc_var_name: instrument_rxlive
   type: i4

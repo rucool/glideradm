@@ -5,14 +5,14 @@
     factory_calibrated: 
     long_name: Deep ISFET Glider-based pH Sensor
     maker: Sea-Bird Scientific
-    maker_vocabulary: https://vocab.nerc.ac.uk/collection/B75/current/ORG00226/
+    maker_vocabulary: https://vocab.nerc.ac.uk/collection/B75/current/ORG00226/,https://vocab.nerc.ac.uk/collection/L35/current/MAN0013/
     model: Deep ISFET Glider-based pH Sensor
     model_vocabulary: ''
     owner: ''
-    references: Saba et al 2019 https://doi.org/10.3389/fmars.2019.00664, Johnson et al 2016 https://doi.org/10.1021/acs.analchem.5b04653
+    references: Saba et al 2019 https://doi.org/10.3389/fmars.2019.00664,Johnson et al 2016 https://doi.org/10.1021/acs.analchem.5b04653
     serial_number: ''
-    type: sensor_model,pH sensors
-    type_vocabulary: https://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,https://vocab.nerc.ac.uk/collection/L05/current/355/
+    type: pH sensors
+    type_vocabulary: https://vocab.nerc.ac.uk/collection/L05/current/355/
     user_calibrated: ''
   nc_var_name: instrument_pH
   type: i4
