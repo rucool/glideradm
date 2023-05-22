@@ -6,7 +6,7 @@
     long_name: Sea-Bird Slocum Glider GPCTD
     make_model: sea-bird
     maker: Sea-Bird Scientific
-    maker_vocabulary: https://vocab.nerc.ac.uk/collection/L35/current/MAN0013/
+    maker_vocabulary: https://vocab.nerc.ac.uk/collection/B75/current/ORG00226/,https://vocab.nerc.ac.uk/collection/L35/current/MAN0013/
     model: Sea-Bird Slocum Glider Payload {GPCTD} CTD
     model_vocabulary: https://vocab.nerc.ac.uk/collection/L22/current/TOOL1492/
     owner: Rutgers University
