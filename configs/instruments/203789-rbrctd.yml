@@ -1,0 +1,38 @@
+- attrs:
+    calibration_date: 2022-02-23
+    comment: ''
+    description: A conductivity, temperature and pressure sensor designed for use on gliders and autonomous underwater vehicles (AUVs). It can be used to derive salinity, density and sound velocity and is optimised for turbulence measurements and passive acoustic monitoring due to its silent operation (non-pumped). The instrument is available as two configurations; the standard RBR Legato3 has a 2 Hz standard thermistor response; the RBR Legato3 Fast 16 instrument has a 16 Hz fast thermistor response. Additional sensors such as dissolved oxygen, fluorescence, turbidity, and PAR are all supported. The RBR Legato3 is designed to fit into a standard 2 x 7 inch sensor bay, with both wet- and dry-bay models. The RBR Legato3 is depth-rated to 1000m, with a pressure range from 500-1000 db and accuracy of +/- 0.05 percent (full scale). The conductivity accuracy is +/- 0.003 mS/cm. Temperature range is -5 degC to +42 degC (ITS-90) with an accuracy of +/- 0.002 degC (-5 to +35 degC) and +/- 0.004 degC (+35 to +42 degC).
+    factory_calibrated: 2022-02-23
+    long_name: RBR Legato3 CTD
+    make_model: rbrlegato3
+    maker: RBR
+    maker_vocabulary: https://vocab.nerc.ac.uk/collection/L35/current/MAN0049/,https://vocab.nerc.ac.uk/collection/B75/current/ORG00299/
+    model: RBR Legato3 CTD
+    model_vocabulary: https://vocab.nerc.ac.uk/collection/L22/current/TOOL1745/
+    owner: Rutgers University
+    references: ''
+    serial_number: '203789'
+    type: CTD,salinity sensor,water temperature sensor,water pressure sensor
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/130/,http://vocab.nerc.ac.uk/collection/L05/current/350/,http://vocab.nerc.ac.uk/collection/L05/current/134/,http://vocab.nerc.ac.uk/collection/L05/current/WPS/
+    user_calibrated: ''
+  nc_var_name: instrument_ctd_rbr
+  type: i4
+- attrs:
+    calibration_date: 2020-01-06 
+    comment: ''
+    description: A conductivity, temperature and pressure sensor designed for use on gliders and autonomous underwater vehicles (AUVs). It can be used to derive salinity, density and sound velocity and is optimised for turbulence measurements and passive acoustic monitoring due to its silent operation (non-pumped). The instrument is available as two configurations; the standard RBR Legato3 has a 2 Hz standard thermistor response; the RBR Legato3 Fast 16 instrument has a 16 Hz fast thermistor response. Additional sensors such as dissolved oxygen, fluorescence, turbidity, and PAR are all supported. The RBR Legato3 is designed to fit into a standard 2 x 7 inch sensor bay, with both wet- and dry-bay models. The RBR Legato3 is depth-rated to 1000m, with a pressure range from 500-1000 db and accuracy of +/- 0.05 percent (full scale). The conductivity accuracy is +/- 0.003 mS/cm. Temperature range is -5 degC to +42 degC (ITS-90) with an accuracy of +/- 0.002 degC (-5 to +35 degC) and +/- 0.004 degC (+35 to +42 degC).
+    factory_calibrated: 2020-01-06
+    long_name: RBR Legato3 CTD
+    make_model: rbrlegato3
+    maker: RBR
+    maker_vocabulary: https://vocab.nerc.ac.uk/collection/L35/current/MAN0049/,https://vocab.nerc.ac.uk/collection/B75/current/ORG00299/
+    model: RBR Legato3 CTD
+    model_vocabulary: https://vocab.nerc.ac.uk/collection/L22/current/TOOL1745/
+    owner: Rutgers University
+    references: ''
+    serial_number: '203789'
+    type: CTD,salinity sensor,water temperature sensor,water pressure sensor
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/130/,http://vocab.nerc.ac.uk/collection/L05/current/350/,http://vocab.nerc.ac.uk/collection/L05/current/134/,http://vocab.nerc.ac.uk/collection/L05/current/WPS/
+    user_calibrated: ''
+  nc_var_name: instrument_ctd_rbr
+  type: i4
