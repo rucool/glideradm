@@ -18,9 +18,9 @@ global_attributes:
     Understanding Gulf Ocean System (UGOS) project. Glider deployed as part of the SWOT 
     program while also providing an opportunity to field test the operational readiness 
     of the glider for future UGOS deployments.
-  contributor_names: Oscar Schofield,Nicole Waite,Dave Aragon,Chip Haldeman,Brian
+  contributor_name: Oscar Schofield,Nicole Waite,Dave Aragon,Chip Haldeman,Brian
     Buckingham,Kaycee Coleman,John Kerfoot
-  contributor_roles: Principal Investigator,Glider Pilot,Glider Pilot,Glider Pilot,Glider
+  contributor_role: Principal Investigator,Glider Pilot,Glider Pilot,Glider Pilot,Glider
     Pilot,Data Management
   deployment: ru38-20230420T1602
   institution: Rutgers University,California Institute of Technology Jet Propulsion
