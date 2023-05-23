@@ -1,8 +1,8 @@
 - attrs: 
-    calibration_date: 1970-01-01
-    comment: Strap on instrument, no live data nor data flow through glider. No calibration date. No NVS vocabulary for instrument as of 2023-05-22. 
+    calibration_date: ''
+    comment: Strap on instrument, no live data nor data flow through glider. No NVS vocabulary for instrument as of 2023-05-22. 
     description: Long-term underwater passive acoustic recorder features adjustable sample rates, configurable recording (continuous or duty cycle), and data storage as audio wav files. Applications include noise monitoring, seismic and pile driving, marine mammal monitoring, and fish monitoring.
-    factory_calibrated: 1970-01-01
+    factory_calibrated: ''
     long_name: Loggerhead LS1 Hydrophone
     make_model: ''
     maker: Loggerhead Instruments
