@@ -1,0 +1,82 @@
+# guidelines for global attributes
+# This file should be used as the default global attributes. Recommendation is to override
+#   any global attributes in this file using the deployment.yml file. See deployment.yml
+#   for details.
+Conventions: CF-1.6, COARDS, ACDD-1.3
+acknowledgement: ''
+cdm_data_type: Trajectory
+comment: Deployed by NAMES aboard BOAT out of LOCATION.
+contributor_name: Josh Kohut, Travis Miles, Lesley Thorne, Charlie Flagg, Joseph Warren,
+  Jacqueline McSweeney, Mark Baumgartner, Maha Alnajjar, Nicole Waite, David Aragon,
+  Brian Buckingham, Kaycee Coleman, Chip Haldeman, John Kerfoot, Laura Nazzaro, Lori
+  Garzio
+contributor_role: Principal Investigator, Principal Investigator, Principal Investigator,
+  Principal Investigator, Principal Investigator, Principal Investigator, Principal
+  Investigator, Pilot, Pilot, Pilot, Pilot, Pilot, Pilot, Data Management, Data Management,
+  Data Management
+creator_email: gliderdata@marine.rutgers.edu
+creator_institution: Rutgers University
+creator_name: Rutgers Center for Ocean Observing Leadership Glider Data Team
+creator_type: group
+creator_url: https://rucool.marine.rutgers.edu
+date_created: ''
+date_issued: ''
+date_metadata_modified: ''
+date_modified: ''
+featureType: Trajectory
+geospatial_bounds: ''
+geospatial_bounds_crs: EPSG:4326
+geospatial_bounds_vertical_crs: EPSG:5831
+geospatial_lat_max: ''
+geospatial_lat_min: ''
+geospatial_lat_resolution: 0.00001 degree
+geospatial_lat_units: degree_north
+geospatial_lon_max: ''
+geospatial_lon_min: ''
+geospatial_lon_resolution: 0.00001 degree
+geospatial_lon_units: degree_east
+geospatial_vertical_max: ''
+geospatial_vertical_min: ''
+geospatial_vertical_positive: down
+geospatial_vertical_resolution: ''
+geospatial_vertical_units: EPSG:5831
+history: ''
+id: ''
+infoUrl: https://rucool.marine.rutgers.edu
+institution: Rutgers University
+instrument: In Situ/Laboratory Instruments > Profilers/Sounders > CTD
+instrument_vocabulary: NASA/GCMD Instrument Keywords Version 8.5
+keywords: Oceans > Ocean Pressure > Water Pressure, Oceans > Ocean Temperature > Water
+  Temperature, Oceans > Salinity/Density > Conductivity, Oceans > Salinity/Density
+  > Density, Oceans > Salinity/Density > Salinity
+keywords_vocabulary: NASA/GCMD Earth Sciences Keywords Version 8.5
+license: This data may be redistributed and used without restriction.  Data provided
+  as is with no expressed or implied assurance of quality assurance or quality control
+metadata_link: ''
+naming_authority: edu.rutgers.rucool
+ncei_template_version: NCEI_NetCDF_Trajectory_Template_v2.0
+platform: In Situ Ocean-based Platforms > AUVS > Autonomous Underwater Vehicles
+platform_type: Slocum Glider
+platform_vocabulary: NASA/GCMD Platforms Keywords Version 8.5
+processing_level: Raw Slocum glider time-series dataset from the native data file
+  format. No quality control provided.
+product_version: '1.0'
+program: NYSERDA Acoustic and oceanographic surveys to support offshore wind energy
+  development
+project: Glider based ecological and oceanographic surveys of the New York Bight (GLIDE)
+publisher_email: gliderdata@marine.rutgers.edu
+publisher_institution: Rutgers University
+references: https://rucool.marine.rutgers.edu
+sea_name: Mid-Atlantic Bight
+source: ''
+standard_name_vocabulary: CF Standard Name Table v27
+summary: The GLIDE project is an ocean monitoring program using autonomous underwater
+  gliders to establish baseline oceanographic and ecological datasets to inform responsible
+  development of offshore wind in New York Bight wind lease blocks.
+time_coverage_duration: ''
+time_coverage_end: ''
+time_coverage_resolution: ''
+time_coverage_start: ''
+title: ''
+wmo_id: ''
+wmo_platform_code: ''

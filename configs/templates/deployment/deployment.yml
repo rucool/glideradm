@@ -1,0 +1,75 @@
+# guidelines for deployment configuration
+# 1. All attributes under global_attributes: will override the corresponding attribute in the
+#   global_attributes.yml file. Recommend changing all global attributes in this file, not in
+#   global_attributes.yml.
+# 2. global_attributes:cdm_data_type is either Trajectory or Profile
+# 2. String values do not need to be enclosed in single quotes
+# 3. Dates should not be single quoted in order to be parsed by pyyaml
+# 4. The following should ALWAYS be single quoted:
+#   wmo_id
+#   wmo_platform_code
+#   serial_number
+#   os_version
+# 5. For attributes that are empty (i.e.: do not have a value), use an empty single quoted string = ''
+global_attributes:
+  acknowledgment: Funding provided by ...
+  cdm_data_type: Trajectory
+  comment: Deployed by Brian Buckingham aboard TowBoatUS Santa Cruz. Glider on loan from the 
+    Understanding Gulf Ocean System (UGOS) project. Glider deployed as part of the SWOT 
+    program while also providing an opportunity to field test the operational readiness 
+    of the glider for future UGOS deployments.
+  contributor_names: Oscar Schofield,Nicole Waite,Dave Aragon,Chip Haldeman,Brian
+    Buckingham,Kaycee Coleman,John Kerfoot
+  contributor_roles: Principal Investigator,Glider Pilot,Glider Pilot,Glider Pilot,Glider
+    Pilot,Data Management
+  deployment: ru38-20230420T1602
+  institution: Rutgers University,California Institute of Technology Jet Propulsion
+    Laboratory
+  program: NASA Sea Water & Ocean Topography
+  project: SWOT
+  references: https://swot.jpl.nasa.gov/science/oceanography/,https://rucool.marine.rutgers.edu/data/underwater-gliders/
+  sea_name: Monterey Bay National Marine Sanctuary,Coastal Waters of California,Northeast
+    Pacific Ocean
+  summary: Sea Water Ocean Topography (SWOT) is a radar interferometry mission making
+    SSH measurements over a swath 120 km wide. There is a nadir gap of 20 km where
+    the error from interferometry is not meeting science requirement. The mission's
+    calval requirement is to validate the along-track SSH performance in terms of
+    a wavenumber spectrum of the measurement error by comparison to in-situ measurement.  The
+    current candidate for the in-situ measurement is an array of gliders along the
+    center of a swath to resolve the dynamic height at wavelengths of 15-150 km. An
+    OSSE study suggests that a station-keeping glider making vertical loop of the
+    upper 500 m of the water column in 2 hours can meet the requirement of providing
+    quasi-synoptic observations of the dynamic height from the glider array for comparison
+    with the SWOT snapshot measurement of SSH from overflight.  The primary objective
+    of the Monterey bay experiment is to test the capability of gliders to retrieve
+    the upper ocean dynamic height time series derived from the M1 moo ring covering
+    the upper 300 m of the water column.  Another objective is to make simultaneous
+    measurement of the SSH via a GPS buoy and the bottom pressure via a bottom-pressure
+    recorder. These measurements will allow us to derive the steric component of SSH
+    and compare to the hydrographic measurement by the mooring and gliders.  The glider
+    was deployed in the Monterey Bay National Marine Sanctuary and will traverse west
+    southwest to a series of moorings arranged from north to south over a distance
+    of KM km. This low-resolution real-time dataset contains Conductivity, Temperature
+    and Depth (CTD) measurements. The data will be released on the Global Telecommunication
+    System.
+  wmo_id: ''
+  wmo_platform_code: ''
+platform:
+  comment: ''
+  depth_rating: 1000m
+  description: A long-range autonomous underwater vehicle (AUV) based on buoyancy. The G3S utilises the same features as the G3 glider but uses a new STM32 Processor. This replaces the Persistor processor used on the G3 glider in the Science and Flight Bays. The G3S is used for remote water column sampling. It uses hydraulic buoyancy change to alter the vehicle density in relation to the surrounding water thereby causing the vehicle to either float or sink. Given an appropriate dive or climb angle, the wings and body lift and convert some of this vertical motion into a forward saw tooth horizontal motion. Periodically, the glider surfaces and calls via Iridium Satellite Phone (anywhere in world) or Free Wave RF Modem (line of sight) in to Dockserver (auto attendant computer) to relay navigational fix, data and receive further instructions for command and control. The glider is capable of storm sampling and can be flown in a coordinated fleet. It is 1.5 m in length, has a hull diameter of 22 cm and mass of 55-70 kgs (dependent upon configuration). It has an exchangeable payload (capacity up to 6 L) which is capable of housing a variety of environmental sensors such as nitrate and oxygen. It uses lithium or alkaline batteries. It has a deployment range of 350-13000 km (dependent upon configuration), a deployment length of 15 days to 18 months (dependent upon configuration) and an operating depth range of 4-1000m. Navigation is via GPS waypoints, a pressure and altimeter sensor. Maximum speed is 0.35 m/s (0.68 knot) with the buoyancy engine and an average up to 0.5 m/s (1 knots) with full drive. The thruster provides speeds up to 1 m/s (2 knots). It transmits via RF modem, Iridium (RUDICS), ARGOS or acoustic modem. The new STM32L4 CPU processor utilises OpenRTOS running up to 120 MHz, with 8 Mbytes RAM and 32 Mbytes of flash memory.
+  id: ru38
+  instruments: instrument_ctd
+  long_name: ru38 Slocum G3
+  maker: Teledyne Webb Research
+  maker_vocabulary: http://vocab.nerc.ac.uk/collection/L35/current/MAN0020/,http://vocab.nerc.ac.uk/collection/B75/current/ORG01077/
+  model: Teledyne Webb Research Slocum G3 glider
+  model_vocabulary: http://vocab.nerc.ac.uk/collection/B76/current/B7600029/
+  os_version: '10.08'
+  owner: Rutgers University
+  serial_number: '1058'
+  type: sub-surface gliders
+  type_vocabulary: http://vocab.nerc.ac.uk/collection/L06/current/27/
+  wmo_id: ''
+  wmo_platform_code: ''
+trajectory_name: ru38-20230420T1602
