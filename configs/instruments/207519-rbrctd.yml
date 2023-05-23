@@ -15,5 +15,5 @@
     type: CTD,salinity sensor,water temperature sensor,water pressure sensor
     type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/130/,http://vocab.nerc.ac.uk/collection/L05/current/350/,http://vocab.nerc.ac.uk/collection/L05/current/134/,http://vocab.nerc.ac.uk/collection/L05/current/WPS/
     user_calibrated: ''
-  nc_var_name: instrument_ctd_rbr
+  nc_var_name: instrument_rbrctd
   type: i4
