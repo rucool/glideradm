@@ -1,0 +1,47 @@
+# guidelines for deployment configuration
+# 1. All attributes under global_attributes: will override the corresponding attribute in the
+#   global_attributes.yml file. Recommend changing all global attributes in this file, not in
+#   global_attributes.yml.
+# 2. global_attributes:cdm_data_type is either Trajectory or Profile
+# 2. String values do not need to be enclosed in single quotes
+# 3. Dates should not be single quoted in order to be parsed by pyyaml
+# 4. The following should ALWAYS be single quoted:
+#   wmo_id
+#   wmo_platform_code
+#   serial_number
+#   os_version
+# 5. For attributes that are empty (i.e.: do not have a value), use an empty single quoted string = ''
+global_attributes:
+  acknowledgment: This deployment is supported by the Office of Naval Research (ONR)
+  cdm_data_type: Trajectory
+  comment: Deployed by PASSENGERS field team aboard R/V Atlantic Explorer at the Atlantis II Seamount.
+  contributor_name: Travis Miles,Donglai Gong,Catherine Edwards,Jeff Book,Dave Aragon,Nicole Waite,Brian Buckingham,Kaycee Coleman,Chip Haldeman,John Kerfoot,Laura Nazzaro,Lori Garzio
+  contributor_role: Principal Investigator,Principal Investigator,Principal Investigator,Principal Investigator,Glider Pilot,Glider Pilot,Glider Pilot,Glider Pilot,Glider Pilot,Data Management,Data Management,Data Management
+  deployment: ru30-2023
+  institution: Rutgers University
+  program: Office of Naval Research Task Force Ocean
+  project: PASSENGERS
+  references: https://rucool.marine.rutgers.edu/data/underwater-gliders/
+  sea_name: North Atlantic
+  summary: The Predictions of AcousticS with Smart Experimental Networks of GlidERS (PASSENGERS) project is a partnership between universities and the Naval Research Laboratory to improve the capability of data-assimilative ocean models to predict acoustic propagation in dynamic oceanography environments. It includes the deployment of teams of gliders in small (10 km) spatial footprints with integrated passive acoustics focused on mapping the physical and acoustic environment in the dynamic region of the Atlantis II Seamounts.
+  wmo_id: '4801946'
+  wmo_platform_code: '4801946'
+platform:
+  comment: ''
+  depth_rating: 1000m
+  description: A long-range autonomous underwater vehicle (AUV) based on buoyancy. It is used for remote water column sampling. It uses hydraulic buoyancy change to alter the vehicle density in relation to the surrounding water thereby causing the vehicle to either float or sink. Given an appropriate dive or climb angle, the wings and body lift and convert some of this vertical motion into a forward saw tooth horizontal motion. Periodically, the glider surfaces and calls via Iridium Satellite Phone (anywhere in world) or Free Wave RF Modem (line of sight) in to Dockserver (auto attendant computer) to relay navigational fix, data and receive further instructions for command and control. The glider is capable of storm sampling and can be flown in a coordinated fleet. It is 1.5 m in length, has a hull diameter of 22 cm and mass of 54 kgs. It has an exchangeable payload (capacity up to 6 L) which is capable of housing a variety of environmental sensors such as nitrate and oxygen. It uses lithium or alkaline batteries. It has a deployment range of 600-6000 km, a deployment length of 15 days to 12 months and an operating depth range of 4-1000m. Navigation is via GPS waypoints, a pressure and altimeter sensor. Maximum speed is .35 m/s. It transmits via RF modem, Iridium (RUDICS), ARGOS or acoustic modem.
+  id: ru30
+  instruments: instrument_rbrctd,instrument_flbbcdslc,instrument_hydrophone
+  long_name: ru30 Slocum G2
+  maker: Teledyne Webb Research
+  maker_vocabulary: http://vocab.nerc.ac.uk/collection/L35/current/MAN0020/,http://vocab.nerc.ac.uk/collection/B75/current/ORG01077/
+  model: Teledyne Webb Research Slocum G2 glider
+  model_vocabulary: http://vocab.nerc.ac.uk/collection/B76/current/B7600001/
+  os_version: '8.3'
+  owner: Rutgers University
+  serial_number: '407'
+  type: sub-surface gliders
+  type_vocabulary: http://vocab.nerc.ac.uk/collection/L06/current/27/
+  wmo_id: '4801946'
+  wmo_platform_code: '4801946'
+trajectory_name: ru30-2023
