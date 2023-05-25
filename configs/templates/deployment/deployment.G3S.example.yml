@@ -6,11 +6,13 @@
 # 2. String values do not need to be enclosed in single quotes
 # 3. Dates should not be single quoted in order to be parsed by pyyaml
 # 4. The following should ALWAYS be single quoted:
+#   gts_ingest
 #   wmo_id
 #   wmo_platform_code
 #   serial_number
 #   os_version
 # 5. For attributes that are empty (i.e.: do not have a value), use an empty single quoted string = ''
+glider: ru38
 global_attributes:
   acknowledgment: Funding provided by ...
   cdm_data_type: Trajectory
@@ -23,7 +25,7 @@ global_attributes:
   contributor_role: Principal Investigator,Glider Pilot,Glider Pilot,Glider Pilot,Glider
     Pilot,Data Management
   deployment: ru38-20230420T1602
-  gts_ingest: True
+  gts_ingest: 'True'
   institution: Rutgers University,California Institute of Technology Jet Propulsion
     Laboratory
   program: NASA Sea Water & Ocean Topography

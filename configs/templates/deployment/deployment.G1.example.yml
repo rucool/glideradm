@@ -6,11 +6,13 @@
 # 2. String values do not need to be enclosed in single quotes
 # 3. Dates should not be single quoted in order to be parsed by pyyaml
 # 4. The following should ALWAYS be single quoted:
+#   gts_ingest
 #   wmo_id
 #   wmo_platform_code
 #   serial_number
 #   os_version
 # 5. For attributes that are empty (i.e.: do not have a value), use an empty single quoted string = ''
+glider: usf-murphy
 global_attributes:
   acknowledgment: This deployment is supported by the Office of Naval Research (ONR)
   cdm_data_type: Trajectory
@@ -18,7 +20,7 @@ global_attributes:
   contributor_name: Catherine Edwards,Travis Miles,Donglai Gong,Jeff Book,Karen Dreger,Drew Vincent,James Bird,John Kerfoot,Laura Nazzaro,Lori Garzio
   contributor_role: Principal Investigator,Principal Investigator,Principal Investigator,Principal Investigator,Glider Pilot,Glider Pilot,Glider Pilot,Data Management,Data Management,Data Management
   deployment: usf-murphy-yyyymmddTHHMM
-  gts_ingest: True
+  gts_ingest: 'True'
   institution: Skidaway Institute of Oceanography
   program: Office of Naval Research Task Force Ocean
   project: PASSENGERS
