@@ -9,9 +9,9 @@
     maker_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/ORG00298/
     model: Teledyne RD Instruments Explorer Doppler Velocity Log (DVL)
     model_vocabulary: ''
-    owner: ''
+    owner: Skidaway Institute of Oceanography
     references: https://acteon.com/wp-content/uploads/2022/08/Teledyne-RDI-Explorer-Doppler-Velocity-Log-Data-Sheet.pdf
-    serial_number: ''
+    serial_number: '673097'
     type: ''
     type_vocabulary: ''
     user_calibrated: ''
