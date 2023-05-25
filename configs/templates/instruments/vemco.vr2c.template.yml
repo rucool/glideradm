@@ -1,0 +1,19 @@
+- attrs: 
+    calibration_date: 1970-01-01
+    comment: No calibration date.
+    description: A fully autonomous acoustic receiver for monitoring the presence of tagged fauna. It is cabled and has an embedded temperature sensor in its head (typical accuracy +/- 0.5 deg C). It can have a receiver frequency of 69 kHz or 180 kHz and is depth rated to 500 m.
+    factory_calibrated: 1970-01-01
+    long_name: Vemco VR2C Acoustic Monitoring Receiver
+    make_model: ''
+    maker: VEMCO
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/ORG00348/
+    model: Vemco VR2C
+    model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL0949/
+    owner: ''
+    references: ''
+    serial_number: ''
+    type: sensor_model, hydrophones
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,http://vocab.nerc.ac.uk/collection/L05/current/369/
+    user_calibrated: ''
+  nc_var_name: instrument_vr2c
+  type: i4

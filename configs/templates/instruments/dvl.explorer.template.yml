@@ -1,0 +1,19 @@
+- attrs: 
+    calibration_date: 1970-01-01
+    comment: No calibration date. No NVS vocabulary available as of 2023-05-24. 
+    description: The Teledyne RDI Explorer DVL uses a phased array transducer and Piston Array transducer to deliver high accuracy, precision Doppler navigation and current profiling capability for depths up to 4000 meters, in a lightweight and compact design. Upgrades are available for current profiling and low altitude bottom tracking.
+    factory_calibrated: 1970-01-01
+    long_name: Teledyne RDI Explorer DVL
+    make_model: ''
+    maker: Teledyne RD Instruments
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/ORG00298/
+    model: Teledyne RD Instruments Explorer Doppler Velocity Log (DVL)
+    model_vocabulary: ''
+    owner: ''
+    references: https://acteon.com/wp-content/uploads/2022/08/Teledyne-RDI-Explorer-Doppler-Velocity-Log-Data-Sheet.pdf
+    serial_number: ''
+    type: ''
+    type_vocabulary: ''
+    user_calibrated: ''
+  nc_var_name: instrument_adcp
+  type: i4
