@@ -1,0 +1,19 @@
+- attrs: 
+    calibration_date: 2022-06-10
+    comment: Strap on instrument, no live data nor data flow through glider. No NVS vocabulary for instrument as of 2023-05-22. 
+    description: Long-term underwater passive acoustic recorder features adjustable sample rates, configurable recording (continuous or duty cycle), and data storage as audio wav files. Applications include noise monitoring, seismic and pile driving, marine mammal monitoring, and fish monitoring.
+    factory_calibrated: 2022-06-10
+    long_name: Loggerhead LS1 Hydrophone
+    make_model: ''
+    maker: Loggerhead Instruments
+    maker_vocabulary: ''
+    model: LS1 Hydrophone
+    model_vocabulary: ''
+    owner: United States Naval Research Laboratory
+    references: https://static1.squarespace.com/static/6305101f91f6015bafa81d99/t/63053c8cd267665e7dfbe8a0/1661287564320/LS1-SPEC-SHEET%2B2022.pdf
+    serial_number: '4371363'
+    type: hydrophones
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/369/
+    user_calibrated: ''
+  nc_var_name: instrument_hydrophone
+  type: i4

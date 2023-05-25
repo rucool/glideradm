@@ -1,0 +1,18 @@
+- attrs:
+    calibration_date: 2022-05-20
+    comment: Pumped
+    description: A profiling CTD instrument designed specifically for installation on Slocum autonomous gliders. It measures conductivity, temperature and pressure for use in oceanic research, updating ocean models, assessing sensor stability on moored observatories, and leveraging data collection opportunities from operational vehicle missions. It outputs real-time data in decimal S/m, degC and decibars, or raw decimal counts. It is externally powered and continuously pumped, and can operate in both continuous sampling or polled sampling modes. It features an expendable anti-foulant device offering bio-fouling protection, and is supplied with Seasoft V2 Windows software for setup and data processing. The pressure sensor with temperature compensation is available in 4 strain-gauge ranges; 0-100; 100-350; 350-1000; 1000-2000 metres. It measures conductivity from 0-9 S/m at a resolution of 0.00001 S/m, temperature from -5 to +42 degC at a resolution of 0.001 degC, and pressure up to 2000 m (dependant on the range chosen), at a resolution of 0.002 percent of full scale range.
+    factory_calibrated: 2022-05-20
+    long_name: Sea-Bird Slocum Glider GPCTD
+    make_model: sea-bird
+    maker: Sea-Bird Scientific
+    maker_vocabulary: https://vocab.nerc.ac.uk/collection/B75/current/ORG00226/,https://vocab.nerc.ac.uk/collection/L35/current/MAN0013/
+    model: Sea-Bird Slocum Glider Payload {GPCTD} CTD
+    model_vocabulary: https://vocab.nerc.ac.uk/collection/L22/current/TOOL1492/
+    owner: United States Naval Research Laboratory
+    serial_number: '9358'
+    type: CTD,salinity sensor,sensor model,water temperature sensor, water pressure sensor
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/130/,http://vocab.nerc.ac.uk/collection/L05/current/350/,http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,http://vocab.nerc.ac.uk/collection/L05/current/134/,http://vocab.nerc.ac.uk/collection/L05/current/WPS/
+    user_calibrated: ''
+  nc_var_name: instrument_ctd
+  type: i4
