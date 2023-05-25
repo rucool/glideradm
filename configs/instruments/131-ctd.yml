@@ -9,7 +9,7 @@
     maker_vocabulary: https://vocab.nerc.ac.uk/collection/L35/current/MAN0013/,https://vocab.nerc.ac.uk/collection/B75/current/ORG00226/
     model: Sea-Bird CT Sail CTD
     model_vocabulary: https://vocab.nerc.ac.uk/collection/L22/current/TOOL1188/
-    owner: Univerity of South Florida College of Marine Science
+    owner: University of South Florida College of Marine Science
     references: ''
     serial_number: '131'
     type: CTD,salinity sensor,sensor model,water temperature sensor
