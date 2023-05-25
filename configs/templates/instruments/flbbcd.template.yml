@@ -9,6 +9,7 @@
     model: WET Labs {Sea-Bird WETLabs} ECO FLBBCD scattering fluorescence sensor
     model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL1141/
     owner: ''
+    references: ''
     serial_number: ''
     type: water temperature sensor,water pressure sensors,sensor_model,fluorometers,optical backscatter sensors
     type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/134/,http://vocab.nerc.ac.uk/collection/L05/current/WPS/,http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,http://vocab.nerc.ac.uk/collection/L05/current/113/,http://vocab.nerc.ac.uk/collection/L05/current/123/

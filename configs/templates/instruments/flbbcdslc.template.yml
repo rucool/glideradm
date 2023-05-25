@@ -9,6 +9,7 @@
     model: WETLabs ECO Puck Triplet FLBBCD-SLC scattering fluorescence sensor
     model_vocabulary: https://vocab.nerc.ac.uk/collection/L22/current/TOOL1312/
     owner: ''
+    references: ''
     serial_number: ''
     type: sensor_model,optical backscatter sensor,fluorometer
     type_vocabulary: http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,http://vocab.nerc.ac.uk/collection/L05/current/123/,http://vocab.nerc.ac.uk/collection/L05/current/113/
