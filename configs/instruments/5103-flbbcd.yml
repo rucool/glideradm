@@ -1,0 +1,18 @@
+- attrs: 
+    calibration_date: 2018-06-28
+    comment: Chlorophyll a,beta700nm,CDOM
+    description: A combined three channel ECO back scatter sensor for floats. It measures proxies of phytoplankton abundance (chlorophyll fluorescence), total particle concentration (backscattering, 700 nm), and dissolved organic matter (CDOM fluorescence) in a single data stream. It has an in-water centroid angle of 124 degrees and is housed in aluminium. The sensor can be fitted with optional temperature and pressure sensor. It has an operating temperature range of 0-30 degrees Celsius and operating depth range of 2000 m.
+    factory_calibrated: 2018-06-28
+    long_name: WET Labs ECO FLBBCD
+    maker: WET Labs,Sea-Bird Scientific
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/L35/current/MAN0026/,http://vocab.nerc.ac.uk/collection/B75/current/ORG00226/
+    model: WET Labs {Sea-Bird WETLabs} ECO FLBBCD scattering fluorescence sensor
+    model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL1141/
+    owner: Skidaway Institute of Oceanography 
+    references: ''
+    serial_number: '5103'
+    type: water temperature sensor,water pressure sensors,sensor_model,fluorometers,optical backscatter sensors
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/134/,http://vocab.nerc.ac.uk/collection/L05/current/WPS/,http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,http://vocab.nerc.ac.uk/collection/L05/current/113/,http://vocab.nerc.ac.uk/collection/L05/current/123/
+    user_calibrated: ''
+  nc_var_name: instrument_flbbcd
+  type: i4
