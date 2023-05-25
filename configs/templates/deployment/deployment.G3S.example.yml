@@ -23,6 +23,7 @@ global_attributes:
   contributor_role: Principal Investigator,Glider Pilot,Glider Pilot,Glider Pilot,Glider
     Pilot,Data Management
   deployment: ru38-20230420T1602
+  gts_ingest: True
   institution: Rutgers University,California Institute of Technology Jet Propulsion
     Laboratory
   program: NASA Sea Water & Ocean Topography

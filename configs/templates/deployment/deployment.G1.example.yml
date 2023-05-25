@@ -18,6 +18,7 @@ global_attributes:
   contributor_name: Catherine Edwards,Travis Miles,Donglai Gong,Jeff Book,Karen Dreger,Drew Vincent,James Bird,John Kerfoot,Laura Nazzaro,Lori Garzio
   contributor_role: Principal Investigator,Principal Investigator,Principal Investigator,Principal Investigator,Glider Pilot,Glider Pilot,Glider Pilot,Data Management,Data Management,Data Management
   deployment: usf-murphy-yyyymmddTHHMM
+  gts_ingest: True
   institution: Skidaway Institute of Oceanography
   program: Office of Naval Research Task Force Ocean
   project: PASSENGERS

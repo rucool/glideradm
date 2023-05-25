@@ -18,6 +18,7 @@ global_attributes:
   contributor_name: Travis Miles,Donglai Gong,Catherine Edwards,Jeff Book,Dave Aragon,Nicole Waite,Brian Buckingham,Kaycee Coleman,Chip Haldeman,John Kerfoot,Laura Nazzaro,Lori Garzio
   contributor_role: Principal Investigator,Principal Investigator,Principal Investigator,Principal Investigator,Glider Pilot,Glider Pilot,Glider Pilot,Glider Pilot,Glider Pilot,Data Management,Data Management,Data Management
   deployment: ru30-2023
+  gts_ingest: True
   institution: Rutgers University
   program: Office of Naval Research Task Force Ocean
   project: PASSENGERS
