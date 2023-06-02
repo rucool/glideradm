@@ -14,8 +14,6 @@
     # REQUIRED: unquoted, NVS concept "altLabel[0]" a concepth exists. Otherwise descriptive long name
     # EXAMPLE: Sea-Bird Slocum Glider GPCTD
     long_name: ''
-    # REQUIRED if used for QC: unquoted
-    make_model: ''
     # REQUIRED: unquoted. Use NVS concepts if available, otherwise specify company
     # EXAMPLE: Sea-Bird Scientific,Satlantic
     maker: ''

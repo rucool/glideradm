@@ -4,7 +4,6 @@
     description: Long-term underwater passive acoustic recorder features adjustable sample rates, configurable recording (continuous or duty cycle), and data storage as audio wav files. Applications include noise monitoring, seismic and pile driving, marine mammal monitoring, and fish monitoring.
     factory_calibrated: ''
     long_name: Loggerhead LS1 Hydrophone
-    make_model: ''
     maker: Loggerhead Instruments
     maker_vocabulary: ''
     model: LS1 Hydrophone
