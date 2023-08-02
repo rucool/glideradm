@@ -1,0 +1,18 @@
+- attrs: 
+    calibration_date: ''
+    comment: Model 5014W
+    description: A dissolved oxygen sensor - no NERC controlled vocabulary as of 2023-08-02. O2 Concentration range 0-500 uM, accuracy +/- 5% or 8uM, resolution <1 uM. Air Saturation range 0-120%, accuracy +/- 5%, resolution <0.4%.
+    factory_calibrated: ''
+    long_name: AA Optode 5014W
+    maker: Aanderaa Data Instruments AS
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/ORG00228/,http://vocab.nerc.ac.uk/collection/L35/current/MAN0007/
+    model: Aanderaa Oxygen Optode 5014W
+    model_vocabulary: ''
+    owner: ''
+    references: ''
+    serial_number: ''
+    type: dissolved gas sensors
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/351/
+    user_calibrated: ''
+  nc_var_name: instrument_optode
+  type: i4
