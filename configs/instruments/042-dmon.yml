@@ -1,0 +1,19 @@
+- attrs: 
+    calibration_date: 1970-01-01
+    comment: No calibration date. No NVS instrument definition (https://vocab.nerc.ac.uk/collection/L22/current/) as of 2023-02-24.
+    description: The digital acoustic monitoring instrument or DMON is a passive acoustic instrument that is capable of recording and processing audio in realtime. The developers have implemented a low-frequency detection and classification system (LFDCS) on the DMON to identify marine mammal calls from a variety of autonomous platforms, including gliders, profiling floats, and moorings. The LFDCS produces pitch tracks of sounds, which describe changes in the frequency (pitch) of a call over time. While automated software can roughly identify calls, for best results scientists typically examine spectrograms to identify marine mammal calls and pitch tracks are derived from spectrograms.
+    factory_calibrated: 1970-01-01
+    long_name: WHOI Digital Acoustic Monitoring Instrument DMON
+    maker: Mark Baumgartner,Woods Hole Oceanographic Institution
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/L35/current/MAN0064/
+    model: DMON Digital Monitoring Acoustic Instrument
+    model_vocabulary: ''
+    owner: Stony Brook University
+    references: http://dcs.whoi.edu/,https://www.whoi.edu/cms/files/JASMAN12952889_85804.pdf,https://www.whoi.edu/fileserver.do?id=163064&pt=2&p=9906
+    serial_number: '042'
+    type: hydrophones
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/369/
+    user_calibrated: ''
+  nc_var_name: instrument_dmon
+  type: i4
+
