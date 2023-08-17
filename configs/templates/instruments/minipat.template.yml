@@ -1,0 +1,19 @@
+- attrs: 
+    calibration_date: 1970-01-01
+    comment: No calibration date.
+    description: An acoustic transmitter designed to track the large-scale movements and determine the behaviour of fish and other marine animals that spend limited time at the sea surface. Depth, temperature and light-level data, among others, are collected and summarised for transmission and archived using onboard memory. A corrodible pin enables release of the tag from its host animal on a date pre-programmed by the user, or when conditions indicating the tag is no longer on the fish (conditional release) are met. Once released, the tag surfaces and uploads a summary of the archived data to Argos satellites. It also features a pinger for radio tracking recovery. It has an operational depth-rating of 1700m. It has an operating temperature range of -20 to +50 degrees Celsius, accuracy of +/- 0.1 degrees Celsius, and resolution of 0.05 degrees Celsius. Conductivity operational limits are 0.1 to 5S/m, and features 64 MB internal memory capacity.
+    factory_calibrated: 1970-01-01
+    long_name: Wildlife Computers MiniPAT pop-up archival transmitting tag
+    maker: Wildlife Computers
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/L35/current/MAN0191/,http://vocab.nerc.ac.uk/collection/B75/current/ORG01836/
+    model: Wildlife Computers MiniPAT 
+    model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL1740/
+    owner: ''
+    references: ''
+    serial_number: ''
+    type: tracking tags
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/TRTG/
+    user_calibrated: ''
+  nc_var_name: instrument_minipat
+  type: i4
+
