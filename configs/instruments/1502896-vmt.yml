@@ -1,6 +1,6 @@
 - attrs: 
     calibration_date: 1970-01-01
-    comment: No calibration date. No data feed through glider. No NVS vocabulary for instrument as of 2023-04-20. 
+    comment: No calibration date. No data feed through glider. No NVS vocabulary for instrument as of 2023-04-20. This VMT is associated with transmitter tag ID 59965.
     description: The Vemco Mobile Transceiver (VMT) is a hybrid between a 69 kHz coded transmitter and a 69 kHz monitoring receiver (similar to the VR2W-69 kHz). The VMT is externally attached to an animal or glider and its receiving capabilities enable it to detect other animals that have been tagged with a 69 kHz coded transmitter. Coded transmitting capabilities also allow the VMT to be detected by other deployed 69 kHz receivers. The VMT comes with several user programmable options such as the ability to vary receiver ON time (duty cycle), as well as some tag programming options. Depth rated to 1000 m.
     factory_calibrated: 1970-01-01
     long_name: Vemco Mobile Transceiver (VMT)
