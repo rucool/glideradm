@@ -1,0 +1,18 @@
+- attrs: 
+    calibration_date: 2023-03-09
+    comment: '' 
+    description: A 1 MHz Acoustic Doppler Current Profiler (ADCP) designed specifically for use on gliders for water velocity measurements. Fully integrated solutions are available for the Kongsberg Seaglider, Scripps Spray Glider, and Webb Slocum Glider. The AD2CP features 4 beams; beams 1 and 3 are angled at 47.5 degrees and beams 2 and 4 are angled at 25 degrees. This enables 3D velocities to be calculated during both ascent and descent of the glider. The AD2CP can operate two modes; Single (burst or average) or Concurrent (burst and average). It features 16 GB of onboard data storage with an optional increase to 64 GB. The Glider1000 AD2CP features an average profiling range of 30 m (25 m in burst mode), with a minimum blanking distance of 0.1 m. It has an operating temperature range of -4 to +40 degC, and is depth-rated to 1000 m. It has a bottom tracking range of 30 m, a velocity resolution of 0.1 cm s-1, and a maximum sampling rate of 16 Hz.
+    factory_calibrated: 2023-03-09
+    long_name: Nortek Glider1000 AD2CP
+    maker: NortekUSA
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/ORG00333/,http://vocab.nerc.ac.uk/collection/L35/current/MAN0068/
+    model: Glider1000 AD2CP Acoustic Doppler Current Profiler
+    model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL1774/
+    owner: University of the Virgin Islands
+    references: ''
+    serial_number: '104645'
+    type: current profilers
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/115/
+    user_calibrated: ''
+  nc_var_name: instrument_adcp
+  type: i4
