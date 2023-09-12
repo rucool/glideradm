@@ -21,9 +21,9 @@ global_attributes:
     program while also providing an opportunity to field test the operational readiness 
     of the glider for future UGOS deployments.
   contributor_name: Oscar Schofield,Nicole Waite,Dave Aragon,Chip Haldeman,Brian
-    Buckingham,Kaycee Coleman,John Kerfoot
+    Buckingham,Kaycee Coleman,John Kerfoot,Laura Nazzaro,Lori Garzio
   contributor_role: Principal Investigator,Glider Pilot,Glider Pilot,Glider Pilot,Glider
-    Pilot,Data Management
+    Pilot,Data Management,Data Management,Data Management
   deployment: ru38-20230420T1602
   gts_ingest: 'True'
   institution: Rutgers University,California Institute of Technology Jet Propulsion
