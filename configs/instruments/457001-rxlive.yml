@@ -1,0 +1,18 @@
+- attrs: 
+    calibration_date: 1970-01-01
+    comment: No calibration date. No NVS vocabulary for instrument as of 2023-04-20. 
+    description: The Rx-LIVE Cabled Receiver enables researchers to have a permanent, real-time communication path to the receiver allowing them to easily monitor the health status of the receivers deployed in the field and to upload data at any time. Developed as a replacement for the VR2C Cabled Receiver, the Rx-LIVE Cabled Receiver offers significant advantages over the VR2C including a smaller form factor design, improved diagnostic information, and detection of multiple frequencies for use with 69 kHz coded tags and aquaMeasure environmental sensors. Operates in waters between -5C and +40C and up to 500 m depth. 
+    factory_calibrated: 1970-01-01
+    long_name: Rx-LIVE Cabled Receiver
+    maker: Innovasea Systems Inc.
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/L35/current/MAN0207/
+    model: Rx-LIVE
+    model_vocabulary: ''
+    owner: Rutgers University
+    references: https://www.innovasea.com/wp-content/uploads/2021/10/Innovasea-rx-live_receiver_data-sheet1021.pdf 
+    serial_number: '457001'
+    type: ''
+    type_vocabulary: ''
+    user_calibrated: ''
+  nc_var_name: instrument_rxlive
+  type: i4
