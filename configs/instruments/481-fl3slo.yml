@@ -4,7 +4,6 @@
     description: A variant of the ECO Puck Triplet (http://vocab.nerc.ac.uk/collection/L22/current/TOOL0673/). It is a three-optical-sensor, user-defined instrument that carries 3 fluroescence sensors. ECO Pucks are real‐time only sensors as they are integrated onto the OEM platform that provides power and data handling. The SLO designation signifies this is a 1st generation model that is specific for integration into Slocum gliders. The fluorometers and scattering meter are single wavelength sensors. The model is depth-rated to 600 m.
     factory_calibrated: 2009-08-31
     long_name: WET Labs ECO FL3SLO
-    make_model: sea-bird
     maker: Sea-Bird Scientific,WET Labs
     maker_vocabulary: https://vocab.nerc.ac.uk/collection/B75/current/ORG00226/,http://vocab.nerc.ac.uk/collection/L35/current/MAN0026/,
     model: WET Labs {Sea-Bird WETLabs} ECO Triplet FL3SLO fluorescence sensor
@@ -22,7 +21,6 @@
     description: A variant of the ECO Puck Triplet (http://vocab.nerc.ac.uk/collection/L22/current/TOOL0673/). It is a three-optical-sensor, user-defined instrument that carries 3 fluroescence sensors. ECO Pucks are real‐time only sensors as they are integrated onto the OEM platform that provides power and data handling. The SLO designation signifies this is a 1st generation model that is specific for integration into Slocum gliders. The fluorometers and scattering meter are single wavelength sensors. The model is depth-rated to 600 m.
     factory_calibrated: 2006-03-17
     long_name: WET Labs ECO FL3SLO
-    make_model: sea-bird
     maker: Sea-Bird Scientific,WET Labs
     maker_vocabulary: https://vocab.nerc.ac.uk/collection/B75/current/ORG00226/,http://vocab.nerc.ac.uk/collection/L35/current/MAN0026/,
     model: WET Labs {Sea-Bird WETLabs} ECO Triplet FL3SLO fluorescence sensor
