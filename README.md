@@ -17,3 +17,4 @@ Contact [kerfoot@marine.rutgers.edu](mailto:kerfoot@marine.rutgers.edu) with que
 - [RU-COOL Glider Deployment Data Access](http://slocum-data.marine.rutgers.edu/erddap/index.html)
 - [U.S. IOOS Glider DAC](https://gliders.ioos.us/status/datasets/)
 
+2023-10-22 @kerfoot
