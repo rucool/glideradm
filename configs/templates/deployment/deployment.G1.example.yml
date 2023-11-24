@@ -21,6 +21,7 @@ global_attributes:
   contributor_role: Principal Investigator,Principal Investigator,Principal Investigator,Principal Investigator,Glider Pilot,Glider Pilot,Glider Pilot,Data Management,Data Management,Data Management
   deployment: usf-murphy-yyyymmddTHHMM
   gts_ingest: 'True'
+  infoUrl: https://rucool.marine.rutgers.edu/
   institution: Skidaway Institute of Oceanography
   program: Office of Naval Research Task Force Ocean
   project: PASSENGERS

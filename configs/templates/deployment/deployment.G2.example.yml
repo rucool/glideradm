@@ -21,6 +21,7 @@ global_attributes:
   contributor_role: Principal Investigator,Principal Investigator,Principal Investigator,Principal Investigator,Glider Pilot,Glider Pilot,Glider Pilot,Glider Pilot,Glider Pilot,Data Management,Data Management,Data Management
   deployment: ru30-2023
   gts_ingest: 'True'
+  infoUrl: https://rucool.marine.rutgers.edu/
   institution: Rutgers University
   program: Office of Naval Research Task Force Ocean
   project: PASSENGERS

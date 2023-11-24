@@ -26,6 +26,7 @@ global_attributes:
     Pilot,Data Management,Data Management,Data Management
   deployment: ru38-20230420T1602
   gts_ingest: 'True'
+  infoUrl: https://rucool.marine.rutgers.edu/
   institution: Rutgers University,California Institute of Technology Jet Propulsion
     Laboratory
   program: NASA Sea Water & Ocean Topography
