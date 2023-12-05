@@ -9,9 +9,9 @@
     model: Sea-Bird CT Sail CTD
     model_vocabulary: https://vocab.nerc.ac.uk/collection/L22/current/TOOL1188/
     owner: Rutgers University
-    serial_number: ''
+    serial_number: '149'
     type: CTD,salinity sensor,sensor model,water temperature sensor
     type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/130/,http://vocab.nerc.ac.uk/collection/L05/current/350/,http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,http://vocab.nerc.ac.uk/collection/L05/current/134/
-    user_calibrated: '149'
+    user_calibrated: ''
   nc_var_name: instrument_ctd
   type: i4
