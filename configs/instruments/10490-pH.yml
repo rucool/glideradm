@@ -14,5 +14,6 @@
     type: pH sensors
     type_vocabulary: https://vocab.nerc.ac.uk/collection/L05/current/355/
     user_calibrated: ''
+    calibration_coefficients: '{"f1": 1.6573e-05, "f2": -2.6822e-08, "f3": 2.5197e-11, "f4": -1.338e-14, "f5": 3.8234e-18, "f6": -4.584e-22, "k0": -1.419355, "k2": -0.0010291}'
   nc_var_name: instrument_pH
   type: i4
