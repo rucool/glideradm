@@ -1,0 +1,18 @@
+- attrs: 
+    calibration_date: 1970-01-01
+    comment: Strap on instrument, no data flow through glider. No calibration date. 
+    description: CTD sensor package combined with a 401 MHz RF unit and antenna suitable for transmission of conductivity, temperature and pressure data via the Argos satellite system. The unit contains an internal battery and a microprocessor that logs data and schedules the transfer of data. The package is designed for attachment to marine mammals and has an operational temperature range of -20 to +50 degC and a depth range of up to 2000 m. Auxiliary sensors may be attached. It is built and calibrated at Valeport Ltd, while SMRU Ltd, the commercial arm of the Sea Mammal Research Unit of the University of St Andrews, is responsible for its distribution, and for streaming and processing the data.
+    factory_calibrated: 1970-01-01
+    long_name: SMRU Ltd CTD-Satellite Relay Data Logger 9000
+    maker: SMRU Ltd
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/ORG00541/
+    model: SMRU Ltd CTD-SRDL 9000
+    model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL0446/
+    owner: ''
+    references: ''
+    serial_number: ''
+    type: sensor_model
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/
+    user_calibrated: ''
+  nc_var_name: instrument_tagctd
+  type: i4
