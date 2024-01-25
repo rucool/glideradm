@@ -8,9 +8,9 @@
     maker_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/ORG00541/
     model: SMRU Ltd CTD-SRDL 9000
     model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL0446/
-    owner: ''
+    owner: University of Delaware
     references: ''
-    serial_number: ''
+    serial_number: '20389'
     type: sensor_model
     type_vocabulary: http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/
     user_calibrated: ''
