@@ -5,7 +5,7 @@ documentation on all aspects of RU-COOL glider fleet data set processing perform
 
 This repo does not contain code. It's sole purpose is to document glideradm data processing. As such, the repo
 contains a [.gitignore](https://github.com/rucool/glideradm/blob/main/.gitignore) that excludes (does not track) 
-any source code. The [.gitignore]https://github.com/rucool/glideradm/blob/main/.gitignore() can be modified to relax
+any source code. The [.gitignore](https://github.com/rucool/glideradm/blob/main/.gitignore) can be modified to relax
 the restrictions on filetype tracking.
 
 Contact [kerfoot@marine.rutgers.edu](mailto:kerfoot@marine.rutgers.edu) with questions & suggestions.
