@@ -1,36 +1,34 @@
 - attrs: 
-    calibration_date: 2024-04-09
+    calibration_date: 2023-03-28
     comment: '' 
     description: A custom-built version of the QSP-2150 Quantum Scalar Irradiance PAR Sensor, the QSP-2155 is designed for use on Teledyne Webb autonomous underwater vehicles, such as gliders. It is electronically and functionally equivalent to the QSP-2150, developed for multi-parameter logging applications, but its housing is tailored specifically for glider use. It uses a scalar irradiance collector to obtain a uniform directional response over 3.6-pi steradians. A stainless steel encased optical light pipe guides flux from the collector to a filtered silicon photodetector, resulting in a flat quantum response over the PAR spectral region (400-700 nm). The sensor produces a digital ASCII output and uses a Teledyne-Impulse MCBH series connector. It uses a 24-bit analog to digital converter (ADC) operating at frequencies of 4 to up to 250 Hz. It has a stability (dark reading) of < 0.003 microE m-2 sec-1 and operates in waters depths up to 2000 m.
-    factory_calibrated: 2024-04-09
+    factory_calibrated: 2023-03-28
     long_name: Biospherical QSP-2155 Underwater PAR Sensor
-    make_model: ''
     maker: Biospherical Instruments Inc.
     maker_vocabulary: https://vocab.nerc.ac.uk/collection/B75/current/ORG00318/
     model: Biospherical Instruments QSP-2155 Underwater PAR Sensor
     model_vocabulary: https://vocab.nerc.ac.uk/collection/L22/current/TOOL1368/
     owner: Virginia Institute of Marine Science
     references: ''
-    serial_number: '50340'
+    serial_number: '50196'
     type: sensor_model,radiometers
     type_vocabulary: https://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,https://vocab.nerc.ac.uk/collection/L05/current/122/
     user_calibrated: ''
   nc_var_name: instrument_bsipar
   type: i4
 - attrs: 
-    calibration_date: 2020-08-17
+    calibration_date: 2015-05-18
     comment: '' 
     description: A custom-built version of the QSP-2150 Quantum Scalar Irradiance PAR Sensor, the QSP-2155 is designed for use on Teledyne Webb autonomous underwater vehicles, such as gliders. It is electronically and functionally equivalent to the QSP-2150, developed for multi-parameter logging applications, but its housing is tailored specifically for glider use. It uses a scalar irradiance collector to obtain a uniform directional response over 3.6-pi steradians. A stainless steel encased optical light pipe guides flux from the collector to a filtered silicon photodetector, resulting in a flat quantum response over the PAR spectral region (400-700 nm). The sensor produces a digital ASCII output and uses a Teledyne-Impulse MCBH series connector. It uses a 24-bit analog to digital converter (ADC) operating at frequencies of 4 to up to 250 Hz. It has a stability (dark reading) of < 0.003 microE m-2 sec-1 and operates in waters depths up to 2000 m.
-    factory_calibrated: 2020-08-17
+    factory_calibrated: 2015-05-18
     long_name: Biospherical QSP-2155 Underwater PAR Sensor
-    make_model: ''
     maker: Biospherical Instruments Inc.
     maker_vocabulary: https://vocab.nerc.ac.uk/collection/B75/current/ORG00318/
     model: Biospherical Instruments QSP-2155 Underwater PAR Sensor
     model_vocabulary: https://vocab.nerc.ac.uk/collection/L22/current/TOOL1368/
     owner: Virginia Institute of Marine Science
     references: ''
-    serial_number: '50340'
+    serial_number: '50196'
     type: sensor_model,radiometers
     type_vocabulary: https://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,https://vocab.nerc.ac.uk/collection/L05/current/122/
     user_calibrated: ''
