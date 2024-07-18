@@ -1,0 +1,36 @@
+- attrs: 
+    calibration_date: 2015-06-02
+    comment: beta470nm,CDOM,Chlorophyll a
+    description: A variant of the ECO Puck Triplet (http://vocab.nerc.ac.uk/collection/L22/current/TOOL0673/). It is a three-optical-sensor, user-defined instrument that carries 2 fluorometers and a scattering meter. ECO Pucks are real‐time only sensors as they are integrated onto the OEM platform that provides power and data handling. The SLO designation signifies this is a 1st generation model that is specific for integration into Slocum gliders. The fluorometers and scattering meter are single wavelength sensors. The model is depth-rated to 200 m.
+    factory_calibrated: 2015-06-02
+    long_name: WET Labs ECO BBFL2-SLO
+    maker: Sea-Bird Scientific,WET Labs
+    maker_vocabulary: https://vocab.nerc.ac.uk/collection/B75/current/ORG00226/,https://vocab.nerc.ac.uk/collection/L35/current/MAN0026/
+    model: WET Labs {Sea-Bird WETLabs} ECO Puck Triplet BBFL2-SLO scattering fluorescence sensor
+    model_vocabulary: https://vocab.nerc.ac.uk/collection/L22/current/TOOL1317/
+    owner: Rutgers University
+    references: ''
+    serial_number: '600'
+    type: sensor_model, optical backscatter sensor
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/123/,https://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/
+    user_calibrated: ''
+  nc_var_name: instrument_bbfl2slo
+  type: i4
+- attrs: 
+    calibration_date: 2009-01-29
+    comment: beta470nm,CDOM,Chlorophyll a
+    description: A variant of the ECO Puck Triplet (http://vocab.nerc.ac.uk/collection/L22/current/TOOL0673/). It is a three-optical-sensor, user-defined instrument that carries 2 fluorometers and a scattering meter. ECO Pucks are real‐time only sensors as they are integrated onto the OEM platform that provides power and data handling. The SLO designation signifies this is a 1st generation model that is specific for integration into Slocum gliders. The fluorometers and scattering meter are single wavelength sensors. The model is depth-rated to 200 m.
+    factory_calibrated: 2009-01-29
+    long_name: WET Labs ECO BBFL2-SLO
+    maker: Sea-Bird Scientific,WET Labs
+    maker_vocabulary: https://vocab.nerc.ac.uk/collection/B75/current/ORG00226/,https://vocab.nerc.ac.uk/collection/L35/current/MAN0026/
+    model: WET Labs {Sea-Bird WETLabs} ECO Puck Triplet BBFL2-SLO scattering fluorescence sensor
+    model_vocabulary: https://vocab.nerc.ac.uk/collection/L22/current/TOOL1317/
+    owner: Rutgers University
+    references: ''
+    serial_number: '600'
+    type: sensor_model, optical backscatter sensor
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/123/,https://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/
+    user_calibrated: ''
+  nc_var_name: instrument_bbfl2slo
+  type: i4
