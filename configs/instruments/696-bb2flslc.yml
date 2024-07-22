@@ -14,5 +14,5 @@
     type: sensor_model, optical backscatter sensor
     type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/123/,https://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/
     user_calibrated: ''
-  nc_var_name: instrument_bbfl2slo
+  nc_var_name: instrument_bbfl2slc
   type: i4
