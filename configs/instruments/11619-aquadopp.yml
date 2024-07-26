@@ -1,0 +1,18 @@
+- attrs: 
+    calibration_date: 2013-11-26
+    comment: 1 MHz transducer, designed for installation on Slocum gliders. Head ID AQP 6483. Software version 1.36.06 Firmware version 3.39
+    description: A family of self-contained Doppler current profilers, Nortek Aquadopp Profilers are often referred to as AquaPro instruments. They are designed for deployment on the seabed, moorings, buoys or fixed structures. They can feature a range of transducers - 400 kHz (60-90m range: 2-8m cell size), 600 kHz (30-40m range: 1-4m cell size), Z-cell 600 kHz, 1 MHz (12-25m range: 0.3-4m cell size), Z-cell 1MHz, 2 MHz (4-10m range:0.1-2m cell size) and side-looking. Each transducer has 3 beams and the instrument has a maximum of 128 cells. Current speeds up to 10 m/s may be measured at an accuracy of 1% of measured value ±0.5cm/s. The standard depth rating is 300 m with 3000 m or 600m versions available. Temperature (embedded thermistor with 0.1C accuracy and 0.01C resolution), compass (magnetometer with 2 degrees accuracy and 0.1 degree resolution providing tilt <20 degrees), tilt (liquid level with 0.2 degree accuracy and 0.1 degree resolution) and pressure (piezo resistive with accuracy of 0.5% full scale - usually 100m - and resolution of 0.005% full scale) sensors are provided as standard.
+    factory_calibrated: 2013-11-26
+    long_name: Nortek Aquadopp Doppler Current Profiler
+    maker: NortekUSA
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/ORG00333/,http://vocab.nerc.ac.uk/collection/L35/current/MAN0068/
+    model: Nortek Aquadopp Doppler Current Profiler
+    model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL0888/
+    owner: Rutgers University
+    references: ''
+    serial_number: '11619'
+    type: current profilers
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/115/
+    user_calibrated: ''
+  nc_var_name: instrument_aquadopp
+  type: i4
