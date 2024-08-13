@@ -1,0 +1,36 @@
+- attrs: 
+    calibration_date: 2024-06-01
+    comment: ''
+    description: A self-contained device designed to measure turbulence microstructure using 2x SPM-6000 turbulence shear probes, 2x FP07-1000 fast thermistors, 1x SBE7-6000 conductivity sensor, 1x pressure sensor, 2x accelerometers and 1x tilt sensor. Integrates with a variety of marine instrument carriers, such as Gliders, AUVs, moorings, CTD rosettes or profiling floats. It is pressure rated up to 1000 dbar or 6000 dbar. Accuracy is +/-5% velocity shear.
+    factory_calibrated: 2024-06-01
+    long_name: Rockland Scientific MicroRider-1000 turbulence microstructure profilerg
+    maker: Rockland Scientific International
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/ORG00677/
+    model: Rockland MicroRider-1000
+    model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL1232/
+    owner: Bermuda Institute of Ocean Sciences
+    references: ''
+    serial_number: '365'
+    type: sensor_model
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/
+    user_calibrated: ''
+  nc_var_name: instrument_microrider
+  type: i4
+- attrs: 
+    calibration_date: 2021-10-25
+    comment: ''
+    description: A self-contained device designed to measure turbulence microstructure using 2x SPM-6000 turbulence shear probes, 2x FP07-1000 fast thermistors, 1x SBE7-6000 conductivity sensor, 1x pressure sensor, 2x accelerometers and 1x tilt sensor. Integrates with a variety of marine instrument carriers, such as Gliders, AUVs, moorings, CTD rosettes or profiling floats. It is pressure rated up to 1000 dbar or 6000 dbar. Accuracy is +/-5% velocity shear.
+    factory_calibrated: 2021-10-25
+    long_name: Rockland Scientific MicroRider-1000 turbulence microstructure profilerg
+    maker: Rockland Scientific International
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/ORG00677/
+    model: Rockland MicroRider-1000
+    model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL1232/
+    owner: Bermuda Institute of Ocean Sciences
+    references: ''
+    serial_number: '365'
+    type: sensor_model
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/
+    user_calibrated: ''
+  nc_var_name: instrument_microrider
+  type: i4
