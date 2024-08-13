@@ -1,0 +1,36 @@
+- attrs: 
+    calibration_date: 2011-09-07
+    comment: beta470nm,beta532nm,Chlorophyll a. No NVS instrument definition (https://vocab.nerc.ac.uk/collection/L22/current/) as of 2024-07-25.
+    description: A variant of the ECO Puck Triplet (http://vocab.nerc.ac.uk/collection/L22/current/TOOL0673/).
+    factory_calibrated: 2011-09-07
+    long_name: WET Labs ECO BB2FL-SLK
+    maker: Sea-Bird Scientific,WET Labs
+    maker_vocabulary: https://vocab.nerc.ac.uk/collection/B75/current/ORG00226/,https://vocab.nerc.ac.uk/collection/L35/current/MAN0026/
+    model: WET Labs {Sea-Bird WETLabs} ECO Puck Triplet BB2FL-SLK scattering fluorescence sensor
+    model_vocabulary: ''
+    owner: Rutgers University
+    references: ''
+    serial_number: '646'
+    type: fluorometers,optical backscatter sensor
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/113/,http://vocab.nerc.ac.uk/collection/L05/current/123/
+    user_calibrated: ''
+  nc_var_name: instrument_bb2flslk
+  type: i4
+- attrs: 
+    calibration_date: 2009-07-13
+    comment: beta470nm,beta532nm,Chlorophyll a. No NVS instrument definition (https://vocab.nerc.ac.uk/collection/L22/current/) as of 2024-07-25.
+    description: A variant of the ECO Puck Triplet (http://vocab.nerc.ac.uk/collection/L22/current/TOOL0673/).
+    factory_calibrated: 2009-07-13
+    long_name: WET Labs ECO BB2FL-SLK
+    maker: Sea-Bird Scientific,WET Labs
+    maker_vocabulary: https://vocab.nerc.ac.uk/collection/B75/current/ORG00226/,https://vocab.nerc.ac.uk/collection/L35/current/MAN0026/
+    model: WET Labs {Sea-Bird WETLabs} ECO Puck Triplet BB2FL-SLK scattering fluorescence sensor
+    model_vocabulary: ''
+    owner: Rutgers University
+    references: ''
+    serial_number: '646'
+    type: fluorometers,optical backscatter sensor
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/113/,http://vocab.nerc.ac.uk/collection/L05/current/123/
+    user_calibrated: ''
+  nc_var_name: instrument_bb2flslk
+  type: i4
