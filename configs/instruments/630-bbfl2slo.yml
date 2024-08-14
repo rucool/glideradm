@@ -14,5 +14,5 @@
     type: sensor_model,fluorometers,optical backscatter sensors
     type_vocabulary: https://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,https://vocab.nerc.ac.uk/collection/L05/current/113/,https://vocab.nerc.ac.uk/collection/L05/current/123/
     user_calibrated: ''
-  nc_var_name: instrument_bbfl2s
+  nc_var_name: instrument_bbfl2slo
   type: i4
