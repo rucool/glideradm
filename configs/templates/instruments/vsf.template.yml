@@ -1,0 +1,18 @@
+- attrs: 
+    calibration_date: ''
+    comment: ''
+    description: A three-angle optical backscatter meter, measuring scattering in water at 100, 125 and 150 deg for a wavelength of 470, 532 or 660 nm. It provides RS-232 serial output with 4000-count range, has a standard depth rating of 600 m and operates over the temperature range 0-30 degC. Optional extras include pressure and temperature sensors, internal data logging, internal batteries, anti-fouling capabilities and user-programmable sampling strategy.
+    factory_calibrated: ''
+    long_name: WETLabs ECO-VSF
+    maker: WET Labs,Sea-Bird Scientific
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/L35/current/MAN0026/,http://vocab.nerc.ac.uk/collection/B75/current/ORG00226/
+    model: WET Labs {Sea-Bird WETLabs} ECO VSF optical backscatter meter
+    model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL0401/
+    owner: ''
+    references: ''
+    serial_number: ''
+    type: optical backscatter sensors,sensor_model
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/123/,http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/
+    user_calibrated: ''
+  nc_var_name: instrument_vsf
+  type: i4
