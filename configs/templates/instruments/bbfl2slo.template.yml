@@ -8,7 +8,7 @@
     maker_vocabulary: https://vocab.nerc.ac.uk/collection/B75/current/ORG00226/,https://vocab.nerc.ac.uk/collection/L35/current/MAN0026/
     model: WET Labs {Sea-Bird WETLabs} ECO Puck Triplet BBFL2-SLO scattering fluorescence sensor
     model_vocabulary: https://vocab.nerc.ac.uk/collection/L22/current/TOOL1317/
-    owner: Rutgers University
+    owner: ''
     references: ''
     serial_number: ''
     type: sensor_model, optical backscatter sensor
