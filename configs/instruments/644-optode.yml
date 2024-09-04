@@ -1,6 +1,6 @@
 - attrs: 
     calibration_date: 2023-06-19
-    comment: 'Model 4831. In-house calibration 2024-07-18.'
+    comment: 'Model 4831. In-house calibration 2024-08-28.'
     description: A dissolved oxygen sensor which provides analogue (0-5V) and digital output (RS-232) to third party data loggers, gliders and floats. Measurement based on the ability of selected substances to act as dynamic fluorescence quenchers. The fluorescent indicator is a special platinum porphyrin complex embedded in a gas permeable foil that is exposed to the surrounding water. In this standard model, a black optical isolation coating protects the complex from sunlight and fluorescent particles in the water. This sensing foil is attached to a window providing optical access for the measuring system from inside a watertight housing. The foil is excited by modulated blue light, and the phase of a returned red light is measured. For improved stability the 4831 optode also performs a reference phase reading by use of a red LED that does not produce fluorescence in the foil. This model is fitted with a standard sensing foil. By linearizing and temperature compensating, with an incorporated temperature sensor, the absolute O2 concentration can be determined. Accuracy +/- 1.5% or 2uM; precision +/- 0.2 uM.
     factory_calibrated: 2023-06-19
     long_name: AA Optode 4831
@@ -13,7 +13,7 @@
     serial_number: '644'
     type: sensor_model,dissolved gas sensors
     type_vocabulary: http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,http://vocab.nerc.ac.uk/collection/L05/current/351/
-    user_calibrated: 2024-07-18
+    user_calibrated: 2024-08-28
   nc_var_name: instrument_optode
   type: i4
 - attrs: 

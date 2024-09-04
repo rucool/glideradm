@@ -1,6 +1,6 @@
 - attrs: 
     calibration_date: 2024-04-12
-    comment: This AZFP is mounted at a downward-facing angle in the science bay of a Slocum Webb glider, and measurements at 38, 120, and 200 kHz are recorded during glider descents.` 
+    comment: This AZFP, configured for fish, is mounted at a downward-facing angle in the science bay of a Slocum Webb glider, and measurements at 38, 120, and 200 kHz are recorded during glider descents.` 
     description: An autonomous scientific echosounder for the measurement and monitoring of environmental conditions in oceans, lakes and rivers. Abundance of zooplankton, fish, bubbles and suspended sediments in the water column are common targets, via the measurement of acoustic backscatter returns at multiple ultrasonic frequencies. Using onboard data storage, the AZFP can collect data continuously for periods of up to one year at high temporal and spatial resolution. The AZFP is available with up to four frequencies in a single transducer housing. It can be operated in bottom-mounted, upward looking mode or in downward looking mode from a buoy, and is ideally suited for taut-line mooring operation.
     factory_calibrated: 2024-04-12
     long_name: ASL AZFP
