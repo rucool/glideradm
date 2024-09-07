@@ -1,0 +1,19 @@
+- attrs: 
+    calibration_date: 2024-08-01
+    comment: '' 
+    description: A high precision scientific echo sounder, designed to simultaneously operate frequencies ranging from 10 to 500 kHz. EK80 is a modular echo sounder system, and can operate with a combination of split and single beam transducers facilitated by a built-in calibration application. This system was built in succession to the EK60 echo sounder.
+    factory_calibrated: 2024-08-01
+    long_name: Simrad EK80 echo sounder
+    maker: Kongsberg Maritime AS
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/ORG00360/
+    model: EK80
+    model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL1205/
+    owner: University of Delaware
+    references: ''
+    serial_number: '2'
+    type: sensor_model, Fish-finder echosounders
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/, http://vocab.nerc.ac.uk/collection/L05/current/FFES/
+    user_calibrated: ''
+  nc_var_name: instrument_ek80
+  type: i4
+
