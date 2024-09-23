@@ -1,6 +1,6 @@
 - attrs: 
     calibration_date: 2008-08-07
-    comment: ''
+    comment: Unpumped
     description: A self-contained unpumped unit comprising the temperature, conductivity and pressure sensors that is designed specifically for deployment on ocean gliders. The sensors are typically installed externally on the hull of the glider. These are OEM products with variable specifications; they are calibrated in a calibration fixture at Sea-Bird, removed from that fixture, and installed in a housing that Sea-Bird does not know or have control over. Additionally, sensor performance is dependent on flow rate through the cell and water column temperature and salinity gradients.
     factory_calibrated: 2008-08-07
     long_name: SBE CT Sail
