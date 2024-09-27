@@ -1,0 +1,18 @@
+- attrs: 
+    calibration_date: 1970-01-01
+    comment: No calibration date. No NVS vocabulary available as of 2024-09-27. 
+    description: 10 DOF IMU modules are combinations of inertial measurement unit with a 3-axis accelerometer and a 3-axis gyroscope, augmented with a 3-axis magnetometer and a barometer on the same board. These modules are commonly found in various devices such as airplanes, drone stabilization systems, helicopters, and robots. They provide essential data about relative and absolute orientation, acceleration, angular velocity, altitude, and more. Thanks to the addition of the magnetometer and barometer, they are suitable for applications with a GPS, providing data propagation in GPS-denied environments, and enabling high-frequency and precise motion tracking and control in a wide range of applications.
+    factory_calibrated: 1970-01-01
+    long_name: Sysrox 10DOF IMU
+    maker: Sysrox
+    maker_vocabulary: 
+    model: 10DOF IMU
+    model_vocabulary: ''
+    owner: ''
+    references: https://sysrox.fr/products/10dof_imu_sensors
+    serial_number: ''
+    type: ''
+    type_vocabulary: ''
+    user_calibrated: ''
+  nc_var_name: instrument_10dofimu
+  type: i4
