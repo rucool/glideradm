@@ -1,0 +1,19 @@
+- attrs: 
+    calibration_date: 2003-01-01
+    comment: No documentation found, serial number or calibaration dates found. This configuration is the default configuration to be used for all hs2 instruments deployed by RU-COOL
+    description: Instrument that measures optical backscatter at 2 wavelengths (420nm and 700nm as standard but can be customised) plus chlorophyll fluorescence. Casings available for 330m, 4000m or custom maximum depth working.
+    factory_calibrated: ''
+    long_name: HS-2 OBS-fluorometer
+    maker: Hydro-Optics, Biology and Instrumentation Laboratories, Inc.
+    maker_vocabulary: https://vocab.nerc.ac.uk/collection/B75/current/ORG00368/
+    model: HOBI HydroScat-2 Optical Backscatter Fluorometer
+    model_vocabulary: https://vocab.nerc.ac.uk/collection/L22/current/TOOL0141/
+    owner: Rutgers University
+    references: ''
+    serial_number: '0000'
+    type: sensor_model
+    type_vocabulary: https://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/
+    user_calibrated: ''
+  nc_var_name: instrument_hydroscat2
+  type: i4
+
