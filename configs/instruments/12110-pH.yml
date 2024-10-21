@@ -2,7 +2,7 @@
     calibration_date: 2024-06-11
     comment: pH sensor
     description: The original design of a deep ISFET (Ion Sensitive Field Effect Transistor) pH sensor (Deep-Sea DuraFET developed by MBARI, Johnson et al 2016) was modified by Sea-Bird Scientific and integrated into a Slocum Webb glider. This pH sensor was reconfigured to fit into an existing glider CTD port utilizing a shared pumped system to pull seawater in past both the pH and CTD sensor elements. The sensor measures pH with a range of 6.5 to 9.0, has an accuracy to +/-0.05 pH units, and precision of 0.001 pH units. It is calibrated in temperatures ranging from 5 deg C to 35 deg C and has a depth rating of 2000 m.
-    factory_calibrated: 2022-10-21
+    factory_calibrated: 2024-06-11
     long_name: Deep ISFET Glider-based pH Sensor
     make_model: Sea-Bird Deep ISFET Glider-based pH Sensor
     maker: Sea-Bird Scientific
