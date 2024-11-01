@@ -1,4 +1,22 @@
 - attrs: 
+    calibration_date: 2024-11-01
+    comment: Strap on instrument, no data flow through glider. Sent to vendor for a calibration/re-check on 2024-11-01. 
+    description: A submersible real-time acoustic monitoring system for marine mammal detection, identification, and localisation, ambient and vessel noise quantification, and wind and tidal energy monitoring. The JASCO OceanObserver has applications on drifters, acoustic profiling floats, gliders, buoys, and other autonomous vehicles. The OceanObserver system records the underwater sounds while running automated cetacean detectors that flag possible marine mammal calls or other events of interest by use of onboard detection algorithms tailored to species and call types of choice, as part of JASCO's PAMlab INT (integrated) software. Features local and global data telemetry via Wi-Fi, VHF, Iridium, cellular, serial, Ethernet, or acoustic modem, and wireless control via Wi-Fi or Bluetooth. For bandwidth-limited telemetry like cellular and Iridium, the OceanObserver converts the detection spectrograms into frequency contours and ranks them by priority. The events are relayed via satellite and delivered by email. The processed events are prioritised so that important events, like detections of species at risk, are sent first, making best use of the communication window. The OceanObserver was designed with modular components to tailor the system to the application, and up to 10 TB memory capacity on removable SD cards. The system features up to 16 mid-speed acoustic channels at 8 - 128 ksps, 8 channels at 8 - 256 ksps, 4 channels at 8 - 512 ksps, or 1 high-speed channel at 2048 ksps. Spectra noise floor is better than -150 dB re FS per square root Hz at 8 - 512 ksps or better than -145 dB re FS per square root Hz at 2048 ksps. Standard hydrophone sensitivities are -164 dB re 1 V/μPa at 1 kHz or -210 dB re 1 V/μPa at 1 kHz.
+    factory_calibrated: 2024-11-01
+    long_name: JASCO OceanObserver acoustic monitoring system
+    maker: JASCO Applied Sciences
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/L35/current/MAN0245/
+    model: JASCO OceanObserver
+    model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL1894/
+    owner: Rutgers University
+    references: https://www.jasco.com/oceanobserver-slocum-glider
+    serial_number: '1091'
+    type: hydrophones
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/369/
+    user_calibrated: ''
+  nc_var_name: instrument_hydrophone
+  type: i4
+- attrs: 
     calibration_date: 1970-01-01
     comment: Strap on instrument, no data flow through glider. No calibration date. 
     description: A submersible real-time acoustic monitoring system for marine mammal detection, identification, and localisation, ambient and vessel noise quantification, and wind and tidal energy monitoring. The JASCO OceanObserver has applications on drifters, acoustic profiling floats, gliders, buoys, and other autonomous vehicles. The OceanObserver system records the underwater sounds while running automated cetacean detectors that flag possible marine mammal calls or other events of interest by use of onboard detection algorithms tailored to species and call types of choice, as part of JASCO's PAMlab INT (integrated) software. Features local and global data telemetry via Wi-Fi, VHF, Iridium, cellular, serial, Ethernet, or acoustic modem, and wireless control via Wi-Fi or Bluetooth. For bandwidth-limited telemetry like cellular and Iridium, the OceanObserver converts the detection spectrograms into frequency contours and ranks them by priority. The events are relayed via satellite and delivered by email. The processed events are prioritised so that important events, like detections of species at risk, are sent first, making best use of the communication window. The OceanObserver was designed with modular components to tailor the system to the application, and up to 10 TB memory capacity on removable SD cards. The system features up to 16 mid-speed acoustic channels at 8 - 128 ksps, 8 channels at 8 - 256 ksps, 4 channels at 8 - 512 ksps, or 1 high-speed channel at 2048 ksps. Spectra noise floor is better than -150 dB re FS per square root Hz at 8 - 512 ksps or better than -145 dB re FS per square root Hz at 2048 ksps. Standard hydrophone sensitivities are -164 dB re 1 V/μPa at 1 kHz or -210 dB re 1 V/μPa at 1 kHz.
