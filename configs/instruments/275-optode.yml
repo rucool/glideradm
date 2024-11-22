@@ -1,0 +1,34 @@
+- attrs: 
+    calibration_date: 2015-10-08
+    comment: 'Model 3835'
+    description: A dissolved oxygen sensor designed to mount on RCM 9 or RDCP 600 or similar OEM applications. Measurement based on the ability of selected substances to act as dynamic fluorescence quenchers. The fluorescent indicator is a special platinum porphyrin complex embedded in a gas permeable foil that is exposed to the surrounding water. A black optical isolation coating protects the complex from sunlight and fluorescent particles in the water. This sensing foil is attached to a window providing optical access for the measuring system from inside a watertight plastic and titanium housing (depth rating 300m).The foil is excited by modulated blue light, and the phase of a returned red light is measured. By linearizing and temperature compensating, with an incorporated temperature sensor, the absolute O2 concentration can be determined. Accuracy +/- 5% or 8uM; precision +/- 0.4 uM.
+    factory_calibrated: 2015-10-08
+    long_name: AA Optode 3835
+    maker: Aanderaa Data Instruments AS
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/ORG00228/,http://vocab.nerc.ac.uk/collection/L35/current/MAN0007/
+    model: Aanderaa Oxygen Optode 3835
+    model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL0103/
+    owner: Rutgers University
+    serial_number: '275'
+    type: sensor_model,dissolved gas sensors
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,http://vocab.nerc.ac.uk/collection/L05/current/351/
+    user_calibrated: ''
+  nc_var_name: instrument_optode
+  type: i4
+- attrs: 
+    calibration_date: 2006-03-07
+    comment: 'Model 3835'
+    description: A dissolved oxygen sensor designed to mount on RCM 9 or RDCP 600 or similar OEM applications. Measurement based on the ability of selected substances to act as dynamic fluorescence quenchers. The fluorescent indicator is a special platinum porphyrin complex embedded in a gas permeable foil that is exposed to the surrounding water. A black optical isolation coating protects the complex from sunlight and fluorescent particles in the water. This sensing foil is attached to a window providing optical access for the measuring system from inside a watertight plastic and titanium housing (depth rating 300m).The foil is excited by modulated blue light, and the phase of a returned red light is measured. By linearizing and temperature compensating, with an incorporated temperature sensor, the absolute O2 concentration can be determined. Accuracy +/- 5% or 8uM; precision +/- 0.4 uM.
+    factory_calibrated: 2006-03-07
+    long_name: AA Optode 3835
+    maker: Aanderaa Data Instruments AS
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/ORG00228/,http://vocab.nerc.ac.uk/collection/L35/current/MAN0007/
+    model: Aanderaa Oxygen Optode 3835
+    model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL0103/
+    owner: Rutgers University
+    serial_number: '275'
+    type: sensor_model,dissolved gas sensors
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,http://vocab.nerc.ac.uk/collection/L05/current/351/
+    user_calibrated: ''
+  nc_var_name: instrument_optode
+  type: i4
