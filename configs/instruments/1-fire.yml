@@ -1,0 +1,18 @@
+- attrs: 
+    calibration_date: 1970-01-01
+    comment: The FIRe sensor uses variable fluorescence techniques for bio-optical measurements of photosynthetic rates and physiological characteristics of phytoplankton. In partnership with Teledyne Webb Research and Satlantic, a FIRe sensor was miniaturized and integrated into the Slocum glider science payload bay. Calibration date not available.
+    description: The Satlantic FIRe (Fluorescence Induction and Relaxation) System is the latest advance in bio-optical technology to measure variable chlorophyll fluorescence in photosynthetic organisms. Based on the Fast Repetition Rate Fluorometry (FRRF) technique, the FIRe was developed in collaboration with Dr. Maxim Gorbunov and Dr. Paul Falkowski from Rutgers University. The system is the result of 15 years experience in phytoplankton physiology, photosynthesis and primary production assessment.
+    factory_calibrated: 1970-01-01
+    long_name: Satlantic FIRe
+    maker: Satlantic Incorporated
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/ORG00365/
+    model: Satlantic FIRe system - Fluorescence Induction and Relaxation of Emission Spectrometer
+    model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL0860/
+    owner: Rutgers University
+    references: Carvalho et al 2020 https://doi.org/10.1002/lom3.10380
+    serial_number: '1'
+    type: active fluorometers,sensor_model
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/353/,http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/
+    user_calibrated: 
+  nc_var_name: instrument_fire
+  type: i4
