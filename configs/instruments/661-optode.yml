@@ -1,4 +1,4 @@
-# lnazzaro - this optode is listed in several deployments with a cal date of 9/3/2022, but I am pretty sure month and date is switched in that version. An earlier version is listed with cal date 3/9/2022 (with month March spelled out), and according to our records this optode was in the water on 9/3/2022 https://marine.rutgers.edu/cool/data/gliders/deployments/deployment.php?deployment=sbu01-20220805T1532&type=notes. There has always been too much other stuff going on to bother confirming during deployment setup, and the assumption feels pretty safe.
+# lnazzaro - this optode is listed in several deployments with a cal date of 9/3/2022, but I am pretty sure month and date is switched in that version. An earlier version is listed with cal date 3/9/2022 (with month March spelled out), and according to our records this optode was in the water on 9/3/2022 https://marine.rutgers.edu/cool/data/gliders/deployments/deployment.php?deployment=sbu01-20220805T1532&type=notes. Sticking with March 9 2022.
 - attrs: 
     calibration_date: 2022-03-09
     comment: 'Model 4831'
