@@ -24,11 +24,11 @@ geospatial_bounds_vertical_crs: EPSG:5831
 geospatial_lat_max: ''
 geospatial_lat_min: ''
 geospatial_lat_resolution: 0.00001 degree
-geospatial_lat_units: degree_north
+geospatial_lat_units: degrees_north
 geospatial_lon_max: ''
 geospatial_lon_min: ''
 geospatial_lon_resolution: 0.00001 degree
-geospatial_lon_units: degree_east
+geospatial_lon_units: degrees_east
 geospatial_vertical_max: ''
 geospatial_vertical_min: ''
 geospatial_vertical_positive: down
