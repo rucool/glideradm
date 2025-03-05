@@ -1,7 +1,7 @@
 - attrs:
     calibration_date: 2024-02-16
     comment: ''
-    description: The SUNA V2 UV nitrate sensor monitors nutrient concentrations in real-time. This sensor measures nitrate over a wide range of environmental conditions, from blue-ocean nitraclines to storm runoff in rivers and streams. Applications include: Long-term nutrient monitoring, Coastal water profiling, Water quality monitoring, and pollution detection. Full UV spectrum range for maximum accuracy. Real-time nitrate calculation with real-time temperature/salinity compensation. The SUNA V2 incorporates the proven MBARI-ISUS nitrate measurement technology, which is based on the absorption characteristics of nitrate in the UV light spectrum. It has the option of 10 or 5 mm pathlength, a wavelength range of 190 - 370 nm, and a depth rating of 500 m.
+    description: The SUNA V2 UV nitrate sensor monitors nutrient concentrations in real-time. This sensor measures nitrate over a wide range of environmental conditions, from blue-ocean nitraclines to storm runoff in rivers and streams. Applications include long-term nutrient monitoring, Coastal water profiling, Water quality monitoring, and pollution detection. Full UV spectrum range for maximum accuracy. Real-time nitrate calculation with real-time temperature/salinity compensation. The SUNA V2 incorporates the proven MBARI-ISUS nitrate measurement technology, which is based on the absorption characteristics of nitrate in the UV light spectrum. It has the option of 10 or 5 mm pathlength, a wavelength range of 190 - 370 nm, and a depth rating of 500 m.
     factory_calibrated: 2024-02-16
     long_name: Submersible Ultraviolet Nitrate Analyser V2 (SUNA V2)
     maker: Sea-Bird Scientific,Satlantic
