@@ -1,4 +1,22 @@
 - attrs: 
+    calibration_date: 2024-08-11
+    comment: Model 5013W - this model has been discontinued by Aanderaa. It is a 3835 Oxygen Optode with an impulse cable moulded directly to the sensor. Description and vocabulary below from Aanderaa Oxygen Optode 3835.
+    description: A dissolved oxygen sensor designed to mount on RCM 9 or RDCP 600 or similar OEM applications. Measurement is based on the ability of selected substances to act as dynamic fluorescence quenchers. The fluorescent indicator is a special platinum porphyrin complex embedded in a gas permeable foil that is exposed to the surrounding water. A black optical isolation coating protects the complex from sunlight and fluorescent particles in the water. This sensing foil is attached to a window providing optical access for the measuring system from inside a watertight plastic and titanium housing (depth rating 300m).The foil is excited by modulated blue light, and the phase of a returned red light is measured. By linearizing and temperature compensating, with an incorporated temperature sensor, the absolute O2 concentration can be determined.. O2 Concentration range 0-500 uM, accuracy +/- 5% or 8uM, resolution <1 uM. Air Saturation range 0-120%, accuracy +/- 5%, resolution <0.4%.
+    factory_calibrated: 2024-08-11
+    long_name: AA Optode 5013W
+    maker: Aanderaa Data Instruments AS
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/ORG00228/,http://vocab.nerc.ac.uk/collection/L35/current/MAN0007/
+    model: Aanderaa Oxygen Optode 5013W
+    model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL0103/
+    owner: Rutgers University
+    references: ''
+    serial_number: '1296'
+    type: dissolved gas sensors
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/351/
+    user_calibrated: 2025-04-15
+  nc_var_name: instrument_optode
+  type: i4
+- attrs: 
     calibration_date: 2023-07-25
     comment: Model 5013W - this model has been discontinued by Aanderaa. It is a 3835 Oxygen Optode with an impulse cable moulded directly to the sensor. Description and vocabulary below from Aanderaa Oxygen Optode 3835.
     description: A dissolved oxygen sensor designed to mount on RCM 9 or RDCP 600 or similar OEM applications. Measurement is based on the ability of selected substances to act as dynamic fluorescence quenchers. The fluorescent indicator is a special platinum porphyrin complex embedded in a gas permeable foil that is exposed to the surrounding water. A black optical isolation coating protects the complex from sunlight and fluorescent particles in the water. This sensing foil is attached to a window providing optical access for the measuring system from inside a watertight plastic and titanium housing (depth rating 300m).The foil is excited by modulated blue light, and the phase of a returned red light is measured. By linearizing and temperature compensating, with an incorporated temperature sensor, the absolute O2 concentration can be determined.. O2 Concentration range 0-500 uM, accuracy +/- 5% or 8uM, resolution <1 uM. Air Saturation range 0-120%, accuracy +/- 5%, resolution <0.4%.
