@@ -13,7 +13,7 @@
     serial_number: '644'
     type: sensor_model,dissolved gas sensors
     type_vocabulary: http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,http://vocab.nerc.ac.uk/collection/L05/current/351/
-    user_calibrated: 2025-07-14
+    user_calibrated: 2025-08-22
   nc_var_name: instrument_optode
   type: i4
 - attrs: 

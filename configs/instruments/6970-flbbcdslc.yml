@@ -1,0 +1,18 @@
+- attrs: 
+    calibration_date: 2023-06-26
+    comment: Chlorophyll a,beta700nm,CDOM
+    description: A variant of the ECO Puck Triplet (http://vocab.nerc.ac.uk/collection/L22/current/TOOL0673/). It is a three-optical-sensor, user-defined instrument that carries a chlorophyll-a fluorometer, FDOM fluorometer and scattering meter. ECO Pucks are real-time only sensors as they are integrated onto the OEM platform that provides power and data handling. The SLC designation signifies this is a third generation model that is specific for integration into Slocum gliders with a dry science bay. The fluorometers and scattering meter are single wavelength sensors. The model is fitted with an added copper faceplate for bio-fouling mitigation and is depth-rated to 1000 m.
+    factory_calibrated: 2023-06-26
+    long_name: ECO Puck Triplet FLBBCD-SLC
+    maker: WET Labs,Sea-Bird Scientific
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/L35/current/MAN0026/,http://vocab.nerc.ac.uk/collection/B75/current/ORG00226/
+    model: WETLabs ECO Puck Triplet FLBBCD-SLC scattering fluorescence sensor
+    model_vocabulary: https://vocab.nerc.ac.uk/collection/L22/current/TOOL1312/
+    owner: Bermuda Institute of Ocean Sciences
+    references: ''
+    serial_number: '6970'
+    type: sensor_model,optical backscatter sensor,fluorometer
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,http://vocab.nerc.ac.uk/collection/L05/current/123/,http://vocab.nerc.ac.uk/collection/L05/current/113/
+    user_calibrated: ''
+  nc_var_name: instrument_flbbcdslc
+  type: i4
