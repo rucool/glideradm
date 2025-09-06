@@ -1,4 +1,22 @@
 - attrs: 
+    calibration_date: 2025-03-25
+    comment: irradiance radiometer
+    description: A cosine-response, submersible radiometer designed for multiwavelength measurements of irradiance and radiance for in-water or in-air use. The standard instrument comes with 4 customer defined channels that measures wavelengths in the bandwidth from 400 to 700 nm. UV wavelengths of 305, 325, 340 and 380 nm are available. The radiometer has a depth rating of 350 m, a sampling rate of 7 to 24 Hz and a spectral bandwidth of 10 or 20 nm. The instrument can be mounted on real-time profilers, moored and autonomous deepwater buoys and autonomous underwater vehicles.
+    factory_calibrated: 2025-03-25
+    long_name: Satlantic {Sea-Bird} OCR-504 multispectral radiometer
+    maker: Satlantic Incorporated, Sea-Bird Scientific
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/B75/current/ORG00365/, http://vocab.nerc.ac.uk/collection/B75/current/ORG00226/
+    model: OCR-504
+    model_vocabulary: http://vocab.nerc.ac.uk/collection/L22/current/TOOL0625/
+    owner: University of Delaware
+    references: ''
+    serial_number: '2503'
+    type: sensor_model, radiometers
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/, http://vocab.nerc.ac.uk/collection/L05/current/122/
+    user_calibrated: ''
+  nc_var_name: instrument_ocr504
+  type: i4
+- attrs: 
     calibration_date: 2024-06-01
     comment: irradiance radiometer
     description: A cosine-response, submersible radiometer designed for multiwavelength measurements of irradiance and radiance for in-water or in-air use. The standard instrument comes with 4 customer defined channels that measures wavelengths in the bandwidth from 400 to 700 nm. UV wavelengths of 305, 325, 340 and 380 nm are available. The radiometer has a depth rating of 350 m, a sampling rate of 7 to 24 Hz and a spectral bandwidth of 10 or 20 nm. The instrument can be mounted on real-time profilers, moored and autonomous deepwater buoys and autonomous underwater vehicles.
@@ -16,4 +34,3 @@
     user_calibrated: ''
   nc_var_name: instrument_ocr504
   type: i4
-
