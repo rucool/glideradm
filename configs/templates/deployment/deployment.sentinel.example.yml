@@ -12,68 +12,42 @@
 #   serial_number
 #   os_version
 # 5. For attributes that are empty (i.e.: do not have a value), use an empty single quoted string = ''
-glider: ru38
+glider: redwing
 global_attributes:
-  acknowledgment: Funding provided by ...
+  acknowledgment: This deployment is supported by Teledyne Marine and collaborators.
   cdm_data_type: Trajectory
-  comment: Deployed by Brian Buckingham aboard TowBoatUS Santa Cruz. Glider on loan from the 
-    Understanding Gulf Ocean System (UGOS) project. Glider deployed as part of the SWOT 
-    program while also providing an opportunity to field test the operational readiness 
-    of the glider for future UGOS deployments.
-  contributor_name: Oscar Schofield,Nicole Waite,Dave Aragon,Chip Haldeman,Brian
-    Buckingham,Kaycee Coleman,John Kerfoot,Laura Nazzaro,Lori Garzio
-  contributor_role: Principal Investigator,Glider Pilot,Glider Pilot,Glider Pilot,Glider
-    Pilot,Data Management,Data Management,Data Management
-  deployment: ru38-20230420T1602
+  comment: Deployed by Cordie Goodrich and Shea Quinn on RV Tioga out of Woods Hole, MA.
+  contributor_name: Cordie Goodrich,Sal Fricano,Garrett Miller,Karl Boettger,Greta O’Dea,Daniel Sciortino,Shea Quinn,Clayton Jones,
+    Scott Glenn,Oscar Schofield,Joe Gradone,Carlos Barrera,John Kerfoot,Laura Nazzaro,Lori Garzio
+  contributor_role: Lead Pilot,Pilot and Field Ops,Pilot and Field Ops,Pilot and Field Ops,Pilot and Field Ops,Pilot and Field Ops,Sentinel Project Lead,
+    Sr. Director of Technology,Collaborator,Collaborator,Collaborator,Collaborator,Data Management,Data Management,Data Management
+  deployment: redwing-20251011T0100
   gts_ingest: 'True'
-  infoUrl: https://rucool.marine.rutgers.edu/
-  institution: Rutgers University,California Institute of Technology Jet Propulsion
-    Laboratory
-  program: NASA Sea Water & Ocean Topography
-  project: SWOT
-  references: https://swot.jpl.nasa.gov/science/oceanography/,https://rucool.marine.rutgers.edu/data/underwater-gliders/
-  sea_name: Monterey Bay National Marine Sanctuary,Coastal Waters of California,Northeast
-    Pacific Ocean
-  summary: Sea Water Ocean Topography (SWOT) is a radar interferometry mission making
-    SSH measurements over a swath 120 km wide. There is a nadir gap of 20 km where
-    the error from interferometry is not meeting science requirement. The mission's
-    calval requirement is to validate the along-track SSH performance in terms of
-    a wavenumber spectrum of the measurement error by comparison to in-situ measurement.  The
-    current candidate for the in-situ measurement is an array of gliders along the
-    center of a swath to resolve the dynamic height at wavelengths of 15-150 km. An
-    OSSE study suggests that a station-keeping glider making vertical loop of the
-    upper 500 m of the water column in 2 hours can meet the requirement of providing
-    quasi-synoptic observations of the dynamic height from the glider array for comparison
-    with the SWOT snapshot measurement of SSH from overflight.  The primary objective
-    of the Monterey bay experiment is to test the capability of gliders to retrieve
-    the upper ocean dynamic height time series derived from the M1 moo ring covering
-    the upper 300 m of the water column.  Another objective is to make simultaneous
-    measurement of the SSH via a GPS buoy and the bottom pressure via a bottom-pressure
-    recorder. These measurements will allow us to derive the steric component of SSH
-    and compare to the hydrographic measurement by the mooring and gliders.  The glider
-    was deployed in the Monterey Bay National Marine Sanctuary and will traverse west
-    southwest to a series of moorings arranged from north to south over a distance
-    of KM km. This low-resolution real-time dataset contains Conductivity, Temperature
-    and Depth (CTD) measurements. The data will be released on the Global Telecommunication
-    System.
-  wmo_id: ''
-  wmo_platform_code: ''
+  infoUrl: https://rucool.marine.rutgers.edu/sentinel-glider/ https://www.teledynemarine.com/sentinelmission
+  institution: Teledyne Webb Research, Rutgers University, SOCIB
+  program: Sentinel
+  project: Sentinel
+  references: https://rucool.marine.rutgers.edu/sentinel-glider/ https://www.teledynemarine.com/sentinelmission
+  sea_name: North Atlantic
+  summary: The inaugural Sentinel mission, led jointly by Rutgers University and Teledyne Webb Research, will launch the first attempt by an autonomous underwater vehicle to circumnavigate the globe. Beginning with deployment from Cape Cod, the glider Redwing will transit south through the Atlantic to Gran Canaria and South Africa, continue eastward across the Indian Ocean to Australia and New Zealand, cross the Pacific, round Cape Horn, and return northward to its starting point—a route of more than 55,000 km expected to take several years with scheduled stops for battery replacement and maintenance. Navigation will be guided by Rutgers’ Glider Guidance System, which integrates real-time ocean forecast models to optimize routing and energy use. The mission is designed to (1) demonstrate the technical feasibility of basin-to-global scale endurance glider operations, (2) advance ocean and climate science through persistent, multi-sensor observations, and (3) engage students worldwide in hands-on ocean exploration, aligning with the UN Decade of Ocean Science by promoting open data, international collaboration, and inclusive participation in large-scale observing efforts.
+  wmo_id: '8901157'
+  wmo_platform_code: '8901157'
 platform:
   comment: No NVS vocabulary as of January 2025. Details available at https://www.teledynemarine.com/en-us/products/Pages/Slocum-Sentinel-Glider.aspx
   depth_rating: 1000m
   description: An ultra-long-range autonomous underwater vehicle (AUV) based on buoyancy. The Sentinel utilises the same features as the G3 glider. The Sentinel is used for remote water column sampling. It uses hydraulic buoyancy change to alter the vehicle density in relation to the surrounding water thereby causing the vehicle to either float or sink. Given an appropriate dive or climb angle, the wings and body lift and convert some of this vertical motion into a forward saw tooth horizontal motion. Periodically, the glider surfaces and calls via Iridium Satellite Phone (anywhere in world) or Free Wave RF Modem (line of sight) in to Dockserver (auto attendant computer) to relay navigational fix, data and receive further instructions for command and control. The glider is capable of storm sampling and can be flown in a coordinated fleet. It is 2.57 m in length, has a hull diameter of 33 cm and mass of approximately 170 kgs (dependent upon configuration). It has an exchangeable payload (capacity up to 8 sensors, 3.5 kg) which is capable of housing a variety of environmental sensors such as nitrate and oxygen. It uses lithium batteries. It is designed for deployments longer than a year (dependent upon configuration), with an operating depth range of 4-1000m. Navigation is via GPS waypoints, a pressure and altimeter sensor. Maximum speed is 0.35 m/s (0.68 knot) with the buoyancy engine and an average up to 0.5 m/s (1 knots) with full drive. The thruster provides speeds up to 1 m/s (2 knots). It transmits via RF modem, Iridium (RUDICS), ARGOS or acoustic modem.
-  id: ru38
+  id: redwing
   instruments: instrument_ctd
-  long_name: ru38 Slocum Sentinel
+  long_name: redwing Slocum Sentinel
   maker: Teledyne Webb Research
   maker_vocabulary: http://vocab.nerc.ac.uk/collection/L35/current/MAN0020/,http://vocab.nerc.ac.uk/collection/B75/current/ORG01077/
   model: Teledyne Webb Research Slocum Sentinel glider
   model_vocabulary: ''
-  os_version: '10.08'
-  owner: Rutgers University
-  serial_number: '1058'
+  os_version: 'Sentinel v01.03.02'
+  owner: Teledyne Webb Research
+  serial_number: 'sen_00'
   type: sub-surface gliders
   type_vocabulary: http://vocab.nerc.ac.uk/collection/L06/current/27/
-  wmo_id: ''
-  wmo_platform_code: ''
-trajectory_name: ru38-20230420T1602
+  wmo_id: '8901157'
+  wmo_platform_code: '8901157'
+trajectory_name: redwing-20251011T0100
