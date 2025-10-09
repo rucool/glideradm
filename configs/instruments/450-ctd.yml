@@ -1,0 +1,18 @@
+- attrs:
+    calibration_date: 1970-01-01
+    comment: Un-pumped, the NERC description was modified to describe the sensor's modification for installation on Slocum gliders.
+    description: A self-contained unit comprising the MicroCAT temperature, conductivity and pressure sensors that was designed specifically for deployment on profiling floats, particularly Argo. This model was modified for installation on Slocum gliders. The unit is designed to provide stable salinity data accurate to 0.005 PSU for periods in excess of three years without any form of maintenance. Temperature is within 0.002 C (stability 0.0002 C/year) and pressure within 2 dbar (stability 0.8 dbar/year).
+    factory_calibrated: 1970-01-01
+    long_name: Sea-Bird SBE 41CP CTD
+    maker: Sea-Bird Scientific
+    maker_vocabulary: https://vocab.nerc.ac.uk/collection/B75/current/ORG00226/,https://vocab.nerc.ac.uk/collection/L35/current/MAN0013/
+    model: Sea-Bird SBE 41CP CTD
+    model_vocabulary: https://vocab.nerc.ac.uk/collection/L22/current/TOOL0669/
+    owner: Teledyne Webb Research
+    references: ''
+    serial_number: '450'
+    type: CTD,salinity sensor,sensor model,water temperature sensor
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/130/,http://vocab.nerc.ac.uk/collection/L05/current/350/,http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,http://vocab.nerc.ac.uk/collection/L05/current/134/
+    user_calibrated: ''
+  nc_var_name: instrument_ctd
+  type: i4
