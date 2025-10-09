@@ -1,7 +1,7 @@
 - attrs:
     calibration_date: '' 
-    comment: Pumped
-    description: A self-contained unit comprising the MicroCAT temperature, conductivity and pressure sensors and a pump that is designed specifically for deployment on profiling floats, particularly Argo. The unit is designed to provide stable salinity data accurate to 0.005 PSU for periods in excess of three years without any form of maintenance. Temperature is within 0.002 C (stability 0.0002 C/year) and pressure within 2 dbar (stability 0.8 dbar/year). During float ascent samples are collected at 1 Hz and logged to internal storage to provide a continuous profile passed to the float controller at the surface.
+    comment: Un-pumped, the NERC description was modified to describe the sensor's modification for installation on Slocum gliders.
+    description: A self-contained unit comprising the MicroCAT temperature, conductivity and pressure sensors that was designed specifically for deployment on profiling floats, particularly Argo. This model was modified for installation on Slocum gliders. The unit is designed to provide stable salinity data accurate to 0.005 PSU for periods in excess of three years without any form of maintenance. Temperature is within 0.002 C (stability 0.0002 C/year) and pressure within 2 dbar (stability 0.8 dbar/year).
     factory_calibrated: ''
     long_name: Sea-Bird SBE 41CP CTD
     maker: Sea-Bird Scientific
