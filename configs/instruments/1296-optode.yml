@@ -13,7 +13,7 @@
     serial_number: '1296'
     type: dissolved gas sensors
     type_vocabulary: http://vocab.nerc.ac.uk/collection/L05/current/351/
-    user_calibrated: 2025-04-15
+    user_calibrated: 2026-01-30
   nc_var_name: instrument_optode
   type: i4
 - attrs: 
