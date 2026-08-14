@@ -1,0 +1,19 @@
+- attrs: 
+    calibration_date: 1970-01-01
+    comment: No NVS vocabulary as of 2026-08-14. Calibration date NA.
+    description: Wassoc's Shadowgraph V3 is a compact subsea imaging system utilizing telecentric optics to capture in situ silhouette images of zooplankton (or other small targets) as they flow through a defined volume. Multi-wavelength collimated backlight(s) and high speed image capture provides uniformly exposed images with high resolution. Coupled with defined imaging volume, targets are easily measured and quantified. Integral UV lights and hard-coat anodized components mitigate biofouling and corrosion on long deployments. The Shadowgraph is optimized for integration onto a subsea glider. However, due to its size, RS-232 communication protocol, and low power requirements, the Shadowgraph can be integrated onto virtually any subsea asset.
+    factory_calibrated: 1970-01-01
+    long_name: Wassoc Shadowgraph V3
+    maker: Wassoc
+    maker_vocabulary: ''
+    model: Shadowgraph V3
+    model_vocabulary: ''
+    owner: ''
+    references: https://www.wassoc.com/products/shadowgraph-imaging-system
+    serial_number: ''
+    type: ''
+    type_vocabulary: ''
+    user_calibrated: ''
+  nc_var_name: instrument_shadowgraph
+  type: i4
+
