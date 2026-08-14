@@ -1,0 +1,18 @@
+- attrs: 
+    calibration_date: 1970-01-01
+    comment: No calibration date. No NVS vocabulary available as of 2026-08-14. 
+    description: 6 DOF IMU modules are combinations of inertial measurement unit with a 3-axis accelerometer and a 3-axis gyroscope. These modules are commonly found in various devices such as airplanes, drone stabilization systems, helicopters, and robots. They provide essential data about relative and absolute orientation, acceleration, angular velocity, altitude, and more.
+    factory_calibrated: 1970-01-01
+    long_name: Sysrox 6DOF IMU
+    maker: Sysrox
+    maker_vocabulary: ''
+    model: 6DOF IMU
+    model_vocabulary: ''
+    owner: Virginia Institute of Marine Science
+    references: ''
+    serial_number: 'NA'
+    type: ''
+    type_vocabulary: ''
+    user_calibrated: ''
+  nc_var_name: instrument_6dofimu
+  type: i4
