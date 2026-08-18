@@ -1,0 +1,36 @@
+- attrs: 
+    calibration_date: 2025-10-27
+    comment: No NVS Vocabulary as of 2024-09.
+    description: Fluorometer (ug/L) and scattering sensor
+    factory_calibrated: 2025-10-27
+    long_name: flbbbbV1
+    maker: WET Labs, Sea-Bird Scientific
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/L35/current/MAN0026/, http://vocab.nerc.ac.uk/collection/B75/current/ORG00226/
+    model: flbbbbV1
+    model_vocabulary: ''
+    owner: Bermuda Institute of Ocean Sciences
+    references: ''
+    serial_number: '6175'
+    type: ''
+    type_vocabulary: ''
+    user_calibrated: ''
+  nc_var_name: instrument_flbbbbv1
+  type: i4
+- attrs: 
+    calibration_date: 2020-03-03
+    comment: No NVS Vocabulary as of 2024-09.
+    description: Fluorometer (ug/L) and scattering sensor
+    factory_calibrated: 2020-03-03
+    long_name: flbbbbV1
+    maker: WET Labs, Sea-Bird Scientific
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/L35/current/MAN0026/, http://vocab.nerc.ac.uk/collection/B75/current/ORG00226/
+    model: flbbbbV1
+    model_vocabulary: ''
+    owner: Bermuda Institute of Ocean Sciences
+    references: ''
+    serial_number: '6175'
+    type: ''
+    type_vocabulary: ''
+    user_calibrated: ''
+  nc_var_name: instrument_flbbbbv1
+  type: i4
