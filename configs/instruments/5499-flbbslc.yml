@@ -1,0 +1,54 @@
+- attrs: 
+    calibration_date: 2024-02-29
+    comment: Chlorophyll a,beta700nm
+    description: A variant of the ECO Puck Triplet (http://vocab.nerc.ac.uk/collection/L22/current/TOOL0673/). It is a user-defined instrument that carries a chlorophyll-a fluorometer and scattering meter. ECO Pucks are real-time only sensors as they are integrated onto the OEM platform that provides power and data handling. The SLC designation signifies this is a third generation model that is specific for integration into Slocum gliders with a dry science bay. The fluorometers and scattering meter are single wavelength sensors.
+    factory_calibrated: 2024-02-29
+    long_name: ECO Puck FLBB-SLC
+    maker: WET Labs,Sea-Bird Scientific
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/L35/current/MAN0026/,http://vocab.nerc.ac.uk/collection/B75/current/ORG00226/
+    model: WETLabs ECO Puck FLBB-SLC scattering fluorescence sensor
+    model_vocabulary: 
+    owner: University of Delaware
+    references: ''
+    serial_number: '5499'
+    type: sensor_model,optical backscatter sensor,fluorometer
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,http://vocab.nerc.ac.uk/collection/L05/current/123/,http://vocab.nerc.ac.uk/collection/L05/current/113/
+    user_calibrated: ''
+  nc_var_name: instrument_flbbslc
+  type: i4
+- attrs: 
+    calibration_date: 2020-11-14
+    comment: Chlorophyll a,beta700nm
+    description: A variant of the ECO Puck Triplet (http://vocab.nerc.ac.uk/collection/L22/current/TOOL0673/). It is a user-defined instrument that carries a chlorophyll-a fluorometer and scattering meter. ECO Pucks are real-time only sensors as they are integrated onto the OEM platform that provides power and data handling. The SLC designation signifies this is a third generation model that is specific for integration into Slocum gliders with a dry science bay. The fluorometers and scattering meter are single wavelength sensors.
+    factory_calibrated: 2020-11-14
+    long_name: ECO Puck FLBB-SLC
+    maker: WET Labs,Sea-Bird Scientific
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/L35/current/MAN0026/,http://vocab.nerc.ac.uk/collection/B75/current/ORG00226/
+    model: WETLabs ECO Puck FLBB-SLC scattering fluorescence sensor
+    model_vocabulary: 
+    owner: University of Delaware
+    references: ''
+    serial_number: '5499'
+    type: sensor_model,optical backscatter sensor,fluorometer
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,http://vocab.nerc.ac.uk/collection/L05/current/123/,http://vocab.nerc.ac.uk/collection/L05/current/113/
+    user_calibrated: ''
+  nc_var_name: instrument_flbbslc
+  type: i4
+- attrs: 
+    calibration_date: 2019-02-14
+    comment: Chlorophyll a,beta700nm
+    description: A variant of the ECO Puck Triplet (http://vocab.nerc.ac.uk/collection/L22/current/TOOL0673/). It is a user-defined instrument that carries a chlorophyll-a fluorometer and scattering meter. ECO Pucks are real-time only sensors as they are integrated onto the OEM platform that provides power and data handling. The SLC designation signifies this is a third generation model that is specific for integration into Slocum gliders with a dry science bay. The fluorometers and scattering meter are single wavelength sensors.
+    factory_calibrated: 2019-02-14
+    long_name: ECO Puck FLBB-SLC
+    maker: WET Labs,Sea-Bird Scientific
+    maker_vocabulary: http://vocab.nerc.ac.uk/collection/L35/current/MAN0026/,http://vocab.nerc.ac.uk/collection/B75/current/ORG00226/
+    model: WETLabs ECO Puck FLBB-SLC scattering fluorescence sensor
+    model_vocabulary: 
+    owner: University of Delaware
+    references: ''
+    serial_number: '5499'
+    type: sensor_model,optical backscatter sensor,fluorometer
+    type_vocabulary: http://vocab.nerc.ac.uk/collection/L19/current/SDNKG17/,http://vocab.nerc.ac.uk/collection/L05/current/123/,http://vocab.nerc.ac.uk/collection/L05/current/113/
+    user_calibrated: ''
+  nc_var_name: instrument_flbbslc
+  type: i4
