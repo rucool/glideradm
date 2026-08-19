@@ -1,6 +1,6 @@
 - attrs: 
     calibration_date: 2024-02-29
-    comment: Chlorophyll a,beta700nm
+    comment: Chlorophyll a,beta700nm. No NVS vocabulary for this specific instrument as of 2026-08-19; information provided is modified from descriptions of similar instruments.
     description: A variant of the ECO Puck Triplet (http://vocab.nerc.ac.uk/collection/L22/current/TOOL0673/). It is a user-defined instrument that carries a chlorophyll-a fluorometer and scattering meter. ECO Pucks are real-time only sensors as they are integrated onto the OEM platform that provides power and data handling. The SLC designation signifies this is a third generation model that is specific for integration into Slocum gliders with a dry science bay. The fluorometers and scattering meter are single wavelength sensors.
     factory_calibrated: 2024-02-29
     long_name: ECO Puck FLBB-SLC
