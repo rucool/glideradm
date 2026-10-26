@@ -1,0 +1,19 @@
+- attrs: 
+    calibration_date: ''
+    comment: '' 
+    description: The Sequoia Laser In-Situ Scattering and Transmissometry (LISST)-200X is a submersible, self-contained sensor that uses laser diffraction to measure particle size and concentration in-situ. It is designed for applications such as sediment transport studies, harmful algae blooms, oil spill dispersion effectiveness and dredge plume monitoring. The sensor produces a collimated laser beam (670 nm) that illuminates particles in the water. The angular distribution of forward-scattered laser light is measured using concentric ring detectors. The signal is corrected for ambient light, attenuation and background scattering by zero concentration of scatterers. It includes a temperature and depth sensor. An Auxiliary port is also available for recording data from an external device such as a turbidity or fluorometer. A full range of accessories are available for the LISST-200X including small and large External Battery Packs, Mixing Chamber, Flow Through Chamber, BioBlock Anti-Fouling Shutter, Settling Column, Path Reduction Modules, and towed and AUV configurations. It is depth rated to 600 m. The instrument has an optical path length of 2.5 cm and measures particles over the size range of 1.0 - 500 um in 36 size classes. Depth and temperature resolution is 0.01 m and 0.01 deg C, respectively. The sensor replaces the LISST-100X model.
+    factory_calibrated: ''
+    long_name: Sequoia LISST-200X particle size analyser
+    maker: Sequoia Scientific
+    maker_vocabulary: https://vocab.nerc.ac.uk/collection/L35/current/MAN0057/,https://vocab.nerc.ac.uk/collection/B75/current/ORG00275/
+    model: LISST-200X
+    model_vocabulary: https://vocab.nerc.ac.uk/collection/L22/current/TOOL1369/
+    owner: ''
+    references: ''
+    serial_number: ''
+    type: ''
+    type_vocabulary: ''
+    user_calibrated: ''
+  nc_var_name: instrument_lisst
+  type: i4
+
